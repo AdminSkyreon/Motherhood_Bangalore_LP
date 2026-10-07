@@ -1,0 +1,581 @@
+{
+  "slug": "city-name",
+  "meta": {
+    "title": "Hospital Name in City | Best Care",
+    "description": "Book appointment with top specialists at Hospital Name, City."
+  },
+  "sections": {
+    "site": {
+      "enabled": true,
+      "hospitalName": "Hospital Name",
+      "locationName": "City Name",
+      "phone": {
+        "display": "+91 98765 43210",
+        "tel": "+919876543210"
+      },
+      "assets": {
+        "logoSrc": "/motherhood-logo.png"
+      },
+      "seo": {
+        "description": "Leading healthcare provider offering advanced medical treatments."
+      }
+    },
+    "banner": {
+      "enabled": true,
+      "subtitle": "Motherhood Hospital City Name",
+      "taglineLines": [
+        "Advanced Healthcare",
+        "Compassionate Experts"
+      ],
+      "taglineEmphasisWord": "Trusted Care",
+      "description": "Explore Motherhood Hospitals across the city for maternity, pregnancy, gynaecology, and specialist services.",
+      "heroImage": "/hero-img.png",
+      "buttons": [
+        { "label": "Find a Hospital →", "primary": true },
+        { "label": "Explore Specialties", "primary": false },
+        { "label": "Find a Doctor", "primary": false, "highlight": true }
+      ]
+    },
+    "cardsSection": {
+      "enabled": true,
+      "cards": [
+        {
+          "title": "City Hub",
+          "description": "One city parent page",
+          "icon": "🏥"
+        },
+        {
+          "title": "Priority Care",
+          "description": "Maternity, Gynae, Paediatrics",
+          "icon": "⭐"
+        },
+        {
+          "title": "Local Access",
+          "description": "Hospitals and clinics by area",
+          "icon": "📍"
+        }
+      ]
+    },
+    "specialtyPathway": {
+      "enabled": true,
+      "subtitle": "MATERNITY PATHWAY",
+      "title": "Maternity, Pregnancy & Birthing Care in City Name",
+      "description": "Looking specifically for pregnancy, normal delivery, birthing or maternity hospital care? Continue to the dedicated city maternity hospital page, which should own these specialty hospital terms after the city hub migration.",
+      "iconSrc": "/icons/maternity-icon.png",
+      "button": {
+        "label": "Explore Maternity Hospitals",
+        "link": "#"
+      }
+    },
+    "specialtyGridSection": {
+      "enabled": true,
+      "title": "Choose Care by Specialty in City Name",
+      "cards": [
+        {
+          "title": "Maternity, Pregnancy & Birthing Hospitals",
+          "description": "Explore pregnancy care, antenatal support, birthing, delivery and postnatal services across Motherhood Hospitals in City Name.",
+          "iconSrc": "/icons/maternitys-icon.png",
+          "tags": ["Maternity hospital", "Pregnancy hospital", "Birthing & delivery"],
+          "linkButton": {
+            "label": "Maternity hospitals in City Name",
+            "url": "#"
+          }
+        },
+        {
+          "title": "Gynaecology Hospitals",
+          "description": "Explore women's health consultations, gynaecology care, diagnostic pathways and surgical care across City Name locations.",
+          "iconSrc": "/icons/gynae-icon.png",
+          "tags": ["Gynaecology hospital", "Women's health", "Gynaec surgery"],
+          "linkButton": {
+            "label": "Gynaecology hospitals in City Name",
+            "url": "#"
+          }
+        },
+        {
+          "title": "Paediatric & Children's Hospitals",
+          "description": "Explore paediatric consultations, child health services, vaccination, specialist care and hospital locations across City Name.",
+          "iconSrc": "/icons/paediatric-icon.png",
+          "tags": ["Paediatric hospital", "Children's hospital", "Child care"],
+          "linkButton": {
+            "label": "Paediatric hospitals in City Name",
+            "url": "#"
+          }
+        }
+      ]
+    },
+    "specialtiesGridSection": {
+      "enabled": true,
+      "title": "",
+      "cards": [
+        {
+          "title": "Neonatology & Newborn Care",
+          "iconSrc": "/icons/neonatology.png",
+          "url": "#"
+        },
+        {
+          "title": "Fetal Medicine",
+          "iconSrc": "/icons/fetal-medicine.png",
+          "url": "#"
+        },
+        {
+          "title": "Gynaecological & Laparoscopic Surgery",
+          "iconSrc": "/icons/gynae-surgery.png",
+          "url": "#"
+        },
+        {
+          "title": "Nutrition & Dietetics",
+          "iconSrc": "/icons/nutrition.png",
+          "url": "#"
+        },
+        {
+          "title": "Radiology",
+          "iconSrc": "/icons/radiology.png",
+          "url": "#"
+        },
+        {
+          "title": "Physiotherapy",
+          "iconSrc": "/icons/physiotherapy.png",
+          "url": "#"
+        },
+        {
+          "title": "Internal Medicine",
+          "iconSrc": "/icons/internal-medicine.png",
+          "url": "#"
+        },
+        {
+          "title": "View All Motherhood Specialties",
+          "iconSrc": "/icons/view-all.png",
+          "url": "#"
+        }
+      ]
+    },
+    "hospitalLocationsSection": {
+      "enabled": true,
+      "title": "Motherhood Hospitals Across City Name",
+      "viewAllLocationsUrl": "#",
+      "hospitals": [
+        {
+          "name": "Motherhood Hospital Area 1, City Name",
+          "imageSrc": "/images/hospitals/city-name/hospital-1.png",
+          "rating": "4.3",
+          "reviewsCount": "390+ reviews",
+          "address": "Sample Address Line 1, City Name",
+          "viewHospitalUrl": "#",
+          "phoneTel": "+919876543210",
+          "directionUrl": "https://maps.google.com/?q=sample"
+        }
+      ]
+    },
+    "findDoctorsSection": {
+      "enabled": true,
+      "title": "Find Doctors by Specialty & Hospital",
+      "directoryHeaderTitle": "{CITY_NAME} DIRECTORY",
+      "directoryMainHeading": "All Doctors in {CITY_NAME}",
+      "backButtonText": "← Back to {CITY_NAME}",
+      "viewAllDoctorsUrl": "https://www.motherhoodindia.com/doctors/city-name/",
+      "specialtiesList": [
+        "Anaesthesiology",
+        "Dentistry",
+        "Fertility & IVF",
+        "Fetal Medicine",
+        "General Medicine & Surgery",
+        "Lactation Consultant",
+        "Neonatology",
+        "Nutrition & Dietetics",
+        "Obstetrics & Gynaecology",
+        "Orthopaedics",
+        "Other Specialities",
+        "Paediatric Surgery",
+        "Paediatrics",
+        "Physiotherapy",
+        "Radiology"
+      ],
+      "locationsList": [
+        "Banashankari",
+        "Electronic City",
+        "Electronic City Phase 2",
+        "HRBR Layout",
+        "Hebbal",
+        "Indiranagar",
+        "Jeevanbhima Nagar Clinic",
+        "Kanakapura Road Clinic",
+        "Kannamangala Clinic",
+        "Kothanur",
+        "Sarjapur",
+        "Whitefield"
+      ],
+      "hospitalsDoctors": [
+        {
+          "name": "Dr. Sample Doctor",
+          "qualification": "MBBS, MS",
+          "specialty": "Obstetrics & Gynaecology",
+          "location": "City Name",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/city-name/sample.png",
+          "bookUrl": "#"
+        }
+      ]
+    },
+    "healthConcernsSection": {
+      "enabled": true,
+      "heading": "Explore Common Health Concerns by Specialty",
+      "concernsList": [
+        {
+          "iconSrc": "/icons/gestational-diabetes.png",
+          "title": "Gestational Diabetes",
+          "description": "Pregnancy monitoring pathway.",
+          "badgeText": "MATERNITY — CONDITION",
+          "url": "/maternity/gestational-diabetes"
+        },
+        {
+          "iconSrc": "/icons/childhood-asthma.png",
+          "title": "Childhood Asthma",
+          "description": "Paediatric condition pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "/paediatrics/childhood-asthma"
+        },
+        {
+          "iconSrc": "/icons/child-allergies.png",
+          "title": "Child Allergies",
+          "description": "Assessment and care pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "/paediatrics/child-allergies"
+        },
+        {
+          "iconSrc": "/icons/newborn-jaundice.png",
+          "title": "Newborn Jaundice",
+          "description": "Newborn and neonatology pathway.",
+          "badgeText": "NEONATOLOGY — CONDITION",
+          "url": "/neonatology/newborn-jaundice"
+        },
+        {
+          "iconSrc": "/icons/developmental-concerns.png",
+          "title": "Developmental Concerns",
+          "description": "Child development pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "/paediatrics/developmental-concerns"
+        },
+        {
+          "iconSrc": "/icons/pcos.png",
+          "title": "PCOS",
+          "description": "Gynaecology condition pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "/gynaecology/pcos"
+        },
+        {
+          "iconSrc": "/icons/fibroids.png",
+          "title": "Fibroids",
+          "description": "Diagnosis and specialist care pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "/gynaecology/fibroids"
+        },
+        {
+          "iconSrc": "/icons/endometriosis.png",
+          "title": "Endometriosis",
+          "description": "City condition and specialist route.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "/gynaecology/endometriosis"
+        },
+        {
+          "iconSrc": "/icons/menstrual.png",
+          "title": "Menstrual Health",
+          "description": "Periods and menstrual wellness pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "/gynaecology/menstrual-health"
+        },
+        {
+          "iconSrc": "/icons/pregnancy.png",
+          "title": "High-Risk Pregnancy",
+          "description": "Advanced maternity pathway.",
+          "badgeText": "MATERNITY — CONDITION",
+          "url": "/maternity/high-risk-pregnancy"
+        }
+      ]
+    },
+    "treatmentOrProcedureSection": {
+      "enabled": true,
+      "heading": "Find Care by Treatment or Procedure",
+      "itemsList": [
+        {
+          "iconSrc": "/icons/antenatal-care.png",
+          "title": "Antenatal Care",
+          "description": "Pregnancy care treatment pathway.",
+          "badgeText": "MATERNITY → TREATMENT",
+          "url": "/maternity/antenatal-care"
+        },
+        {
+          "iconSrc": "/icons/pcos-treatment.png",
+          "title": "PCOS Treatment",
+          "description": "Treatment intent separated from PCOS education.",
+          "badgeText": "GYNAECOLOGY → TREATMENT",
+          "url": "/gynaecology/pcos-treatment"
+        },
+        {
+          "iconSrc": "/icons/fibroid-treatment.png",
+          "title": "Fibroid Treatment",
+          "description": "Medical and surgical care pathway.",
+          "badgeText": "GYNAECOLOGY → TREATMENT",
+          "url": "/gynaecology/fibroid-treatment"
+        },
+        {
+          "iconSrc": "/icons/myomectomy.png",
+          "title": "Myomectomy",
+          "description": "Procedure intent with doctor and cost branches.",
+          "badgeText": "GYNAECOLOGY → PROCEDURE",
+          "url": "/gynaecology/myomectomy"
+        },
+        {
+          "iconSrc": "/icons/vaccination.png",
+          "title": "Vaccination",
+          "description": "Child vaccination care pathway.",
+          "badgeText": "PAEDIATRICS → TREATMENT",
+          "url": "/paediatrics/vaccination"
+        },
+        {
+          "iconSrc": "/icons/childhood-asthma-treatment.png",
+          "title": "Childhood Asthma Care",
+          "description": "Treatment and specialist pathway.",
+          "badgeText": "PAEDIATRICS → TREATMENT",
+          "url": "/paediatrics/childhood-asthma-treatment"
+        }
+      ]
+    },
+    "carePackagesSection": {
+      "enabled": true,
+      "heading": "Explore City Name Care Packages",
+      "packagesList": [
+        {
+          "iconSrc": "/icons/birthing-package.png",
+          "title": "Birthing & Delivery Packages",
+          "description": "Route pregnancy and delivery package intent without turning the City Name hub into a package catalogue.",
+          "buttonLabel": "Explore birthing packages",
+          "url": "#"
+        }
+      ]
+    },
+    "storiesVideoSection": {
+      "enabled": true,
+      "heading": "Stories from Families Across City Name",
+      "storiesList": [
+        {
+          "videoUrl": "/videos/women-health.m3u8",
+          "thumbnailSrc": "",
+          "title": "Women's Health Experience",
+          "description": "Location and patient story placeholder."
+        },
+        {
+          "videoUrl": "/videos/paediatric.m3u8",
+          "thumbnailSrc": "",
+          "title": "Paediatric Care Experience",
+          "description": "Location and patient story placeholder."
+        },
+        {
+          "videoUrl": "/videos/newborn.m3u8",
+          "thumbnailSrc": "",
+          "title": "Newborn Care Experience",
+          "description": "Location and patient story placeholder."
+        },
+        {
+          "videoUrl": "/videos/maternity.m3u8",
+          "thumbnailSrc": "",
+          "title": "Maternity & Birthing Experience",
+          "description": "Location and patient story placeholder."
+        }
+      ]
+    },
+    "helpfulReadsSection": {
+      "enabled": true,
+      "heading": "Helpful Reads for Women, Parents & Families",
+      "viewAllUrl": "/blogs",
+      "blogsList": [
+        {
+          "imageSrc": "/images/blogs/pregnancy-guidance.jpg",
+          "title": "Pregnancy & Birthing Guidance",
+          "description": "Dynamic blog card from the maternity content cluster.",
+          "articleUrl": "/blogs/pregnancy-birthing-guidance"
+        },
+        {
+          "imageSrc": "/images/blogs/womens-health.jpg",
+          "title": "Women's Health & Gynaecology",
+          "description": "Dynamic blog card from the gynaecology content cluster.",
+          "articleUrl": "/blogs/womens-health-gynaecology"
+        },
+        {
+          "imageSrc": "/images/blogs/child-health.jpg",
+          "title": "Child Health & Paediatrics",
+          "description": "Dynamic blog card from the paediatric content cluster.",
+          "articleUrl": "/blogs/child-health-paediatrics"
+        },
+        {
+          "imageSrc": "/images/blogs/newborn-care.jpg",
+          "title": "Newborn & Neonatal Care",
+          "description": "Dynamic blog card from the neonatology content cluster.",
+          "articleUrl": "/blogs/newborn-neonatal-care"
+        }
+      ]
+    },
+    "relatedCareSearchesSection": {
+      "enabled": true,
+      "heading": "Related Care Searches in City Name",
+      "categoriesList": [
+        {
+          "title": "Specialists & Doctor Search Pages",
+          "items": [
+            { "label": "Gynaecologists in City Name", "url": "/specialists/gynaecologists" },
+            { "label": "Paediatricians in City Name", "url": "/specialists/paediatricians" },
+            { "label": "Obstetricians in City Name", "url": "/specialists/obstetricians" },
+            { "label": "Neonatologists in City Name", "url": "/specialists/neonatologists" },
+            { "label": "Developmental Paediatricians", "url": "/specialists/developmental-paediatricians" },
+            { "label": "Fetal Medicine Specialists", "url": "/specialists/fetal-medicine-specialists" }
+          ]
+        },
+        {
+          "title": "Conditions & Treatment Search Pages",
+          "items": [
+            { "label": "Fibroid care in City Name", "url": "/conditions/fibroid-care" },
+            { "label": "PCOS treatment in City Name", "url": "/conditions/pcos-treatment" },
+            { "label": "Endometriosis care in City Name", "url": "/conditions/endometriosis-care" },
+            { "label": "High risk pregnancy care", "url": "/conditions/high-risk-pregnancy" },
+            { "label": "Childhood asthma care", "url": "/conditions/childhood-asthma-care" },
+            { "label": "Child vaccination in City Name", "url": "/conditions/child-vaccination" }
+          ]
+        },
+        {
+          "title": "Procedure & Cost Search Pages",
+          "items": [
+            { "label": "Myomectomy in City Name", "url": "/procedures/myomectomy" },
+            { "label": "Hysterectomy in City Name", "url": "/procedures/hysterectomy" },
+            { "label": "Myomectomy cost in City Name", "url": "/procedures/myomectomy-cost" },
+            { "label": "Normal delivery cost in City Name", "url": "/procedures/normal-delivery-cost" },
+            { "label": "C section cost in City Name", "url": "/procedures/c-section-cost" }
+          ]
+        },
+        {
+          "title": "Hyperlocal Doctor Pages",
+          "items": [
+            { "label": "Paediatricians in Area 1", "url": "/hyperlocal/paediatricians-area-1" },
+            { "label": "Gynaecologists in Area 1", "url": "/hyperlocal/gynaecologists-area-1" },
+            { "label": "Paediatricians in Area 2", "url": "/hyperlocal/paediatricians-area-2" },
+            { "label": "Gynaecologists in Area 2", "url": "/hyperlocal/gynaecologists-area-2" }
+          ]
+        }
+      ]
+    },
+    "faqSection": {
+      "enabled": true,
+      "heading": "Frequently Asked Questions About Motherhood Hospitals in City Name",
+      "tabsList": [
+        {
+          "tabName": "Hospitals & City Care",
+          "questions": [
+            {
+              "question": "Where can I find Motherhood Hospitals in City Name?",
+              "answer": "Motherhood Hospitals has multiple centers across the city equipped with state-of-the-art infrastructure for women and childcare."
+            },
+            {
+              "question": "How can I find the Motherhood location nearest to me?",
+              "answer": "You can check our hospital locations section on this page or use our location finder tool to find the closest facility."
+            },
+            {
+              "question": "Where can I explore maternity, pregnancy and birthing care in City Name?",
+              "answer": "We offer comprehensive maternity packages, advanced labor delivery rooms, and expert obstetric care across our centers."
+            },
+            {
+              "question": "Where can I find gynaecology care in City Name?",
+              "answer": "Our gynaecology department provides advanced care for PCOS, fibroids, endometriosis, and routine women's wellness."
+            },
+            {
+              "question": "Where can I find paediatric or children's hospital care in City Name?",
+              "answer": "We provide 24/7 paediatric emergency care, vaccination clinics, and developmental paediatric services for children."
+            }
+          ]
+        },
+        {
+          "tabName": "Doctors & Specialists",
+          "questions": [
+            {
+              "question": "How can I find a gynaecologist in City Name?",
+              "answer": "You can browse our doctor directory or use the find doctors section to filter top-rated gynaecologists by location and availability."
+            },
+            {
+              "question": "How can I find a paediatrician in City Name?",
+              "answer": "Our network includes experienced paediatricians specializing in newborn care, immunization, and pediatric growth management."
+            },
+            {
+              "question": "How can I find an obstetrician for pregnancy care?",
+              "answer": "You can select from our senior obstetricians who guide you through prenatal care, safe deliveries, and postpartum recovery."
+            },
+            {
+              "question": "Where can I find neonatologists in City Name?",
+              "answer": "Our Level III NICU units are staffed with expert neonatologists available round-the-clock for critical newborn care."
+            },
+            {
+              "question": "Can I search for doctors by Motherhood hospital location?",
+              "answer": "Yes, our doctor search tool allows you to filter specialists based on your preferred hospital branch in the city."
+            }
+          ]
+        },
+        {
+          "tabName": "Conditions, Treatments & Procedures",
+          "questions": [
+            {
+              "question": "Where can I learn about PCOS or fibroid care in City Name?",
+              "answer": "We offer specialized clinics and minimally invasive treatment options for managing PCOS, fibroids, and hormonal imbalances."
+            },
+            {
+              "question": "Where can I explore endometriosis care?",
+              "answer": "Our multi-disciplinary team provides advanced diagnostic and surgical solutions for comprehensive endometriosis management."
+            },
+            {
+              "question": "Where can I explore care for a high risk pregnancy?",
+              "answer": "Our high-risk pregnancy units are equipped with maternal-fetal medicine specialists and advanced monitoring systems."
+            },
+            {
+              "question": "Where can I explore care for childhood asthma or allergies?",
+              "answer": "We provide pediatric pulmonology consultations and specialized allergy testing and management plans for kids."
+            },
+            {
+              "question": "Where can I find information about gynaecology procedures?",
+              "answer": "Detailed guides and consultation options for procedures like laparoscopy, hysterectomy, and myomectomy are available on our site."
+            }
+          ]
+        },
+        {
+          "tabName": "Packages & Practical Information",
+          "questions": [
+            {
+              "question": "Where can I explore maternity or child health packages in City Name?",
+              "answer": "Check out our Care Packages section for transparent pricing on delivery bundles, vaccination packages, and health check-ups."
+            },
+            {
+              "question": "Can I see Google ratings and patient reviews for each City Name location?",
+              "answer": "Yes, patient testimonials and ratings for each branch are showcased in our video stories and review sections."
+            },
+            {
+              "question": "Where can I explore fetal medicine in City Name?",
+              "answer": "Our fetal medicine department offers advanced anomaly scans, genetic counseling, and prenatal diagnostics."
+            },
+            {
+              "question": "How can I book an appointment at Motherhood Hospitals in City Name?",
+              "answer": "You can click on the 'Book Appointment' button on the header or call our helpline number directly to schedule a visit."
+            },
+            {
+              "question": "How do I confirm current services, timings or doctor availability?",
+              "answer": "You can contact our support desk or call our helpline to get real-time updates on doctor schedules and hospital timings."
+            }
+          ]
+        }
+      ]
+    },
+    "needHelpSection": {
+      "enabled": true,
+      "headingPart1": "Need Help Choosing the",
+      "headingHighlight": "Right Care",
+      "headingPart2": "in City Name?",
+      "subtitle": "Start with the hospital, specialty or doctor pathway above, or contact Motherhood Hospitals for appointment assistance.",
+      "bookAppointmentUrl": "#",
+      "phoneText": "Call 96203 96203",
+      "phoneTel": "9620396203"
+    }
+  }
+}

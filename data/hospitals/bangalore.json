@@ -1,0 +1,750 @@
+{
+  "slug": "bangalore",
+  "meta": {
+    "title": "Motherhood Hospitals in Bangalore | Best Maternity & Child Care",
+    "description": "Book appointment with top specialists at Motherhood Hospitals, Bangalore."
+  },
+  "sections": {
+    "site": {
+      "enabled": true,
+      "hospitalName": "Motherhood Hospitals, Bangalore",
+      "locationName": "Bangalore",
+      "phone": {
+        "display": "080 67238946",
+        "tel": "08067238946"
+      },
+      "assets": {
+        "logoSrc": "/motherhood-logo.png"
+      },
+      "seo": {
+        "description": "Leading healthcare provider offering advanced medical treatments."
+      }
+    },
+    "banner": {
+      "enabled": true,
+      "subtitle": "MOTHERHOOD HOSPITALS, BANGALORE",
+      "taglineLines": [
+        "Women & Child Care",
+        "Hospitals in Bangalore"
+      ],
+      "taglineEmphasisWord": "Trusted Care",
+      "description": "Explore Motherhood Hospitals across Bangalore for maternity, pregnancy and birthing care, gynaecology, paediatrics, neonatology and other specialist services. Use this city hub to find the right hospital, speciality, doctor or care pathway for your needs.",
+      "heroImage": "/hero-img.png",
+      "buttons": [
+        { "label": "Find a Hospital →", "primary": true },
+        { "label": "Explore Specialties", "primary": false },
+        { "label": "Find a Doctor", "primary": false, "highlight": true }
+      ]
+    },
+    "cardsSection": {
+      "enabled": true,
+      "cards": [
+        {
+          "title": "City Hub",
+          "description": "One Bangalore parent page",
+          "icon": "🏥"
+        },
+        {
+          "title": "Priority Care",
+          "description": "Maternity, Gynae, Paediatrics",
+          "icon": "⭐"
+        },
+        {
+          "title": "Local Access",
+          "description": "Hospitals and clinics by area",
+          "icon": "📍"
+        }
+      ]
+    },
+    "specialtyPathway": {
+      "enabled": true,
+      "subtitle": "MATERNITY PATHWAY",
+      "title": "Maternity, Pregnancy & Birthing Care in Bangalore",
+      "description": "Looking specifically for pregnancy, normal delivery, birthing or maternity hospital care? Continue to the dedicated Bangalore maternity hospital page, which should own these specialty hospital terms after the city hub migration.",
+      "iconSrc": "/icons/maternity-icon.png",
+      "button": {
+        "label": "Explore Maternity Hospitals",
+        "link": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/"
+      }
+    },
+    "specialtyGridSection": {
+      "enabled": true,
+      "title": "Choose Care by Specialty in Bangalore",
+      "cards": [
+        {
+          "title": "Maternity, Pregnancy & Birthing Hospitals",
+          "description": "Explore pregnancy care, antenatal support, birthing, delivery and postnatal services across Motherhood Hospitals in Bangalore.",
+          "iconSrc": "/icons/maternitys-icon.png",
+          "tags": ["Maternity hospital", "Pregnancy hospital", "Birthing & delivery"],
+          "linkButton": {
+            "label": "Maternity hospitals in Bangalore ",
+            "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/"
+          }
+        },
+        {
+          "title": "Gynaecology Hospitals",
+          "description": "Explore women's health consultations, gynaecology care, diagnostic pathways and surgical care across Bangalore locations.",
+          "iconSrc": "/icons/gynae-icon.png",
+          "tags": ["Gynaecology hospital", "Women's health", "Gynaec surgery"],
+          "linkButton": {
+            "label": "Gynaecology hospitals in Bangalore ",
+            "url": "https://www.motherhoodindia.com/locations/bangalore/gynecology-hospital/"
+          }
+        },
+        {
+          "title": "Paediatric & Children's Hospitals",
+          "description": "Explore paediatric consultations, child health services, vaccination, specialist care and hospital locations across Bangalore.",
+          "iconSrc": "/icons/paediatric-icon.png",
+          "tags": ["Paediatric hospital", "Children's hospital", "Child care"],
+          "linkButton": {
+            "label": "Paediatric hospitals in Bangalore ",
+            "url": "https://www.motherhoodindia.com/locations/bangalore/pediatric-hospital/"
+          }
+        }
+      ]
+    },
+    "specialtiesGridSection": {
+      "enabled": true,
+      "title": "",
+      "cards": [
+        {
+          "title": "Neonatology & Newborn Care",
+          "iconSrc": "/icons/neonatology.png",
+          "url": "https://www.motherhoodindia.com/specialities/neonatology-and-newborn-care/"
+        },
+        {
+          "title": "Fetal Medicine",
+          "iconSrc": "/icons/fetal-medicine.png",
+          "url": "https://www.motherhoodindia.com/specialities/fetal-medicine/"
+        },
+        {
+          "title": "Gynaecological & Laparoscopic Surgery",
+          "iconSrc": "/icons/gynae-surgery.png",
+          "url": "https://www.motherhoodindia.com/specialities/gynaecological-and-laparoscopic-surgery/"
+        },
+        {
+          "title": "Nutrition & Dietetics",
+          "iconSrc": "/icons/nutrition.png",
+          "url": "https://www.motherhoodindia.com/specialities/nutrition-and-dietetics/"
+        },
+        {
+          "title": "Radiology",
+          "iconSrc": "/icons/radiology.png",
+          "url": "https://www.motherhoodindia.com/specialities/radiology/"
+        },
+        {
+          "title": "Physiotherapy",
+          "iconSrc": "/icons/physiotherapy.png",
+          "url": "https://www.motherhoodindia.com/specialities/physiotherapy/"
+        },
+        {
+          "title": "Internal Medicine",
+          "iconSrc": "/icons/internal-medicine.png",
+          "url": "https://www.motherhoodindia.com/specialities/internal-medicine/"
+        },
+        {
+          "title": "View All Motherhood Specialties",
+          "iconSrc": "/icons/view-all.png",
+          "url": "https://www.motherhoodindia.com/specialities/"
+        }
+      ]
+    },
+    "hospitalLocationsSection": {
+      "enabled": true,
+      "title": "Motherhood Hospitals Across Bangalore",
+      "viewAllLocationsUrl": "https://www.motherhoodindia.com/locations/bangalore/",
+      "hospitals": [
+        {
+          "name": "Motherhood Hospital Whitefield, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/whitefield.png",
+          "rating": "4.3",
+          "reviewsCount": "390+ reviews",
+          "address": "34, Whitefield Main Road, Prestige Ozone, Whitefield, Bengaluru 560066",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/whitefield/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Whitefield+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Indiranagar, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/indiranagar.png",
+          "rating": "4.6",
+          "reviewsCount": "530+ reviews",
+          "address": "324, Chinmaya Mission Hospital Road, 1st Stage Hoysala Nagar, Indiranagar, Bengaluru 560038",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/indiranagar/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Indiranagar+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Kothanur, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/kothanur.png",
+          "rating": "4.3",
+          "reviewsCount": "562+ reviews",
+          "address": "2nd Floor, Above Vishal Mega Market, K Narayanapura Main Road, Kothanur Post, Bengaluru 560077",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/kothanur/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Kothanur+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital HRBR Layout, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/hrbr.png",
+          "rating": "4.7",
+          "reviewsCount": "190+ reviews",
+          "address": "5th A Cross Road, HRBR Layout 1st Block, Kalyan Nagar, Bengaluru 560043",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/hrbr-layout/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+HRBR+Layout+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Electronic City, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/electronic-city.png",
+          "rating": "4.5",
+          "reviewsCount": "410+ reviews",
+          "address": "Opposite Velankani Tech Park, Electronic City Phase 1, Bengaluru 560100",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/electronic-city/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Electronic+City+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Hebbal, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/hebbal.png",
+          "rating": "4.4",
+          "reviewsCount": "320+ reviews",
+          "address": "Outer Ring Road, Hebbal, Bengaluru 560024",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/hebbal/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Hebbal+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Banashankari, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/banashankari.png",
+          "rating": "4.5",
+          "reviewsCount": "280+ reviews",
+          "address": "Outer Ring Road, Banashankari, Bengaluru 560085",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/banashankari/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Banashankari+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Sarjapur Road, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/sarjapur.png",
+          "rating": "4.6",
+          "reviewsCount": "450+ reviews",
+          "address": "Sarjapur Main Road, Bengaluru 560102",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/sarjapur-road/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Sarjapur+Road+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Jayanagar, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/jayanagar.png",
+          "rating": "4.8",
+          "reviewsCount": "610+ reviews",
+          "address": "9th Main Road, 3rd Block, Jayanagar, Bengaluru 560011",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/jayanagar/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Jayanagar+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Marathahalli, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/marathahalli.png",
+          "rating": "4.4",
+          "reviewsCount": "340+ reviews",
+          "address": "Outer Ring Road, Marathahalli, Bengaluru 560103",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/marathahalli/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Marathahalli+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital RT Nagar, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/rt-nagar.png",
+          "rating": "4.5",
+          "reviewsCount": "220+ reviews",
+          "address": "RT Nagar Main Road, Bengaluru 560032",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/rt-nagar/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+RT+Nagar+Bangalore"
+        },
+        {
+          "name": "Motherhood Hospital Yelahanka, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/yelahanka.png",
+          "rating": "4.6",
+          "reviewsCount": "290+ reviews",
+          "address": "Byatarayanapura, New Town, Yelahanka, Bengaluru 560064",
+          "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/yelahanka/",
+          "phoneTel": "08067238946",
+          "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Yelahanka+Bangalore"
+        }
+      ]
+    },
+    "findDoctorsSection": {
+      "enabled": true,
+      "title": "Find Doctors by Specialty & Hospital",
+      "directoryHeaderTitle": "BANGALORE DIRECTORY",
+      "directoryMainHeading": "All Doctors in Bangalore",
+      "backButtonText": "← Back to Bangalore",
+      "viewAllDoctorsUrl": "https://www.motherhoodindia.com/doctors/bangalore/",
+      "specialtiesList": [
+        "Anaesthesiology",
+        "Dentistry",
+        "Fertility & IVF",
+        "Fetal Medicine",
+        "General Medicine & Surgery",
+        "Lactation Consultant",
+        "Neonatology",
+        "Nutrition & Dietetics",
+        "Obstetrics & Gynaecology",
+        "Orthopaedics",
+        "Other Specialities",
+        "Paediatric Surgery",
+        "Paediatrics",
+        "Physiotherapy",
+        "Radiology"
+      ],
+      "locationsList": [
+        "Banashankari",
+        "Electronic City",
+        "Electronic City Phase 2",
+        "HRBR Layout",
+        "Hebbal",
+        "Indiranagar",
+        "Jeevanbhima Nagar Clinic",
+        "Kanakapura Road Clinic",
+        "Kannamangala Clinic",
+        "Kothanur",
+        "Sarjapur",
+        "Whitefield"
+      ],
+      "hospitalsDoctors": [
+        {
+          "name": "Dr. Gangarani V S",
+          "qualification": "MBBS, DGO, DNB",
+          "specialty": "Consultant - Obstetrician & Gynaecologist",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic",
+          "experience": "30+ Years",
+          "imageSrc": "/images/doctors/bangalore/gangarani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shruthi R.",
+          "qualification": "MBBS, MS (OBG), PDCC (FETAL MEDICINE)",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/shruthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Gowthami Krishna",
+          "qualification": "MBBS MS OBG MRCOG FRM",
+          "specialty": "Reproductive Medicine and Gynecology",
+          "location": "Bangalore, Kothanur",
+          "experience": "9 Years",
+          "imageSrc": "/images/doctors/bangalore/gowthami.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Haridharshan G.J",
+          "qualification": "MBBS, MD (Paediatrics)",
+          "specialty": "Consultant - Pediatrician",
+          "location": "Bangalore, Electronic City Phase 2, Electronic City",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/haridharshan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        }
+      ]
+    },
+    "healthConcernsSection": {
+      "enabled": true,
+      "heading": "Explore Common Health Concerns by Specialty",
+      "concernsList": [
+        {
+          "iconSrc": "/icons/gestational-diabetes.png",
+          "title": "Gestational Diabetes",
+          "description": "Pregnancy monitoring pathway.",
+          "badgeText": "MATERNITY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/childhood-asthma.png",
+          "title": "Childhood Asthma",
+          "description": "Paediatric condition pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/child-allergies.png",
+          "title": "Child Allergies",
+          "description": "Assessment and care pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/newborn-jaundice.png",
+          "title": "Newborn Jaundice",
+          "description": "Newborn and neonatology pathway.",
+          "badgeText": "NEONATOLOGY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/developmental-concerns.png",
+          "title": "Developmental Concerns",
+          "description": "Child development pathway.",
+          "badgeText": "PAEDIATRICS — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/pcos.png",
+          "title": "PCOS",
+          "description": "Gynaecology condition pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/fibroids.png",
+          "title": "Fibroids",
+          "description": "Diagnosis and specialist care pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/endometriosis.png",
+          "title": "Endometriosis",
+          "description": "City condition and specialist route.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/menstrual.png",
+          "title": "Menstrual Health",
+          "description": "Periods and menstrual wellness pathway.",
+          "badgeText": "GYNAECOLOGY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        },
+        {
+          "iconSrc": "/icons/pregnancy.png",
+          "title": "High-Risk Pregnancy",
+          "description": "Advanced maternity pathway.",
+          "badgeText": "MATERNITY — CONDITION",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/condition/gestational-diabetes/"
+        }
+      ]
+    },
+    "treatmentOrProcedureSection": {
+      "enabled": true,
+      "heading": "Find Care by Treatment or Procedure",
+      "itemsList": [
+        {
+          "iconSrc": "/icons/antenatal-care.png",
+          "title": "Antenatal Care",
+          "description": "Pregnancy care treatment pathway.",
+          "badgeText": "MATERNITY → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/treatment/antenatal-care/"
+        },
+        {
+          "iconSrc": "/icons/pcos-treatment.png",
+          "title": "PCOS Treatment",
+          "description": "Treatment intent separated from PCOS education.",
+          "badgeText": "GYNAECOLOGY → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/gynecology-hospital/treatment/pcos-treatment/"
+        },
+        {
+          "iconSrc": "/icons/fibroid-treatment.png",
+          "title": "Fibroid Treatment",
+          "description": "Medical and surgical care pathway.",
+          "badgeText": "GYNAECOLOGY → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/gynecology-hospital/treatment/fibroid-treatment/"
+        },
+        {
+          "iconSrc": "/icons/myomectomy.png",
+          "title": "Myomectomy",
+          "description": "Procedure intent with doctor and cost branches.",
+          "badgeText": "GYNAECOLOGY → PROCEDURE",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/gynecology-hospital/procedure/myomectomy/"
+        },
+        {
+          "iconSrc": "/icons/vaccination.png",
+          "title": "Vaccination",
+          "description": "Child vaccination care pathway.",
+          "badgeText": "PAEDIATRICS → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/pediatric-hospital/treatment/vaccination/"
+        },
+        {
+          "iconSrc": "/icons/childhood-asthma-treatment.png",
+          "title": "Childhood Asthma Care",
+          "description": "Treatment and specialist pathway.",
+          "badgeText": "PAEDIATRICS → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/pediatric-hospital/treatment/childhood-asthma-care/"
+        },
+        {
+          "iconSrc": "/icons/normal-delivery.png",
+          "title": "Normal Delivery",
+          "description": "Birthing and delivery procedure route.",
+          "badgeText": "MATERNITY → PROCEDURE",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/procedure/normal-delivery/"
+        },
+        {
+          "iconSrc": "/icons/c-section.png",
+          "title": "Caesarean Delivery",
+          "description": "Dedicated birthing procedure intent.",
+          "badgeText": "MATERNITY → PROCEDURE",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/procedure/c-section/"
+        },
+        {
+          "iconSrc": "/icons/developmental-assessment-icon.png",
+          "title": "Developmental Assessment",
+          "description": "Developmental paediatrics pathway.",
+          "badgeText": "PAEDIATRICS → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/gynecology-hospital/procedure/laparoscopic-surgery/"
+        },
+        {
+          "iconSrc": "/icons/newborn-care.png",
+          "title": "NICU Care",
+          "description": "Newborn intensive care pathway.",
+          "badgeText": "NEONATOLOGY → TREATMENT",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/neonatology/newborn-care/"
+        }
+      ]
+    },
+    "carePackagesSection": {
+      "enabled": true,
+      "heading": "Explore Bangalore Care Packages",
+      "packagesList": [
+        {
+          "iconSrc": "/icons/birthing-package.png",
+          "title": "Birthing & Delivery Packages",
+          "description": "Route pregnancy and delivery package intent without turning the Bangalore hub into a package catalogue.",
+          "buttonLabel": "Explore birthing packages",
+          "url": "https://www.motherhoodindia.com/locations/bangalore/maternity-hospital/packages/"
+        }
+      ]
+    },
+    "storiesVideoSection": {
+      "enabled": true,
+      "heading": "Stories from Families Across Bangalore",
+      "storiesList": [
+        {
+          "videoUrl": "/videos/women-health.m3u8",
+          "thumbnailSrc": "",
+          "title": "Women's Health Experience",
+          "description": "Patient story and clinical care journey in Bangalore."
+        },
+        {
+          "videoUrl": "/videos/paediatric.m3u8",
+          "thumbnailSrc": "",
+          "title": "Paediatric Care Experience",
+          "description": "Patient story and clinical care journey in Bangalore."
+        },
+        {
+          "videoUrl": "/videos/newborn.m3u8",
+          "thumbnailSrc": "",
+          "title": "Newborn Care Experience",
+          "description": "Patient story and clinical care journey in Bangalore."
+        },
+        {
+          "videoUrl": "/videos/maternity.m3u8",
+          "thumbnailSrc": "",
+          "title": "Maternity & Birthing Experience",
+          "description": "Patient story and clinical care journey in Bangalore."
+        }
+      ]
+    },
+   "helpfulReadsSection": {
+      "enabled": true,
+      "heading": "Helpful Reads for Women, Parents & Families",
+      "viewAllUrl": "https://www.motherhoodindia.com/blogs/",
+      "blogsList": [
+        {
+          "imageSrc": "/images/blogs/pregnancy-guidance.jpg",
+          "title": "Pregnancy & Birthing Guidance",
+          "description": "Dynamic blog card from the maternity content cluster.",
+          "articleUrl": "https://www.motherhoodindia.com/blogs/"
+        },
+        {
+          "imageSrc": "/images/blogs/womens-health.jpg",
+          "title": "Women's Health & Gynaecology",
+          "description": "Dynamic blog card from the gynaecology content cluster.",
+          "articleUrl": "https://www.motherhoodindia.com/blogs/"
+        },
+        {
+          "imageSrc": "/images/blogs/child-health.jpg",
+          "title": "Child Health & Paediatrics",
+          "description": "Dynamic blog card from the paediatric content cluster.",
+          "articleUrl": "https://www.motherhoodindia.com/blogs/"
+        },
+        {
+          "imageSrc": "/images/blogs/newborn-care.jpg",
+          "title": "Newborn & Neonatal Care",
+          "description": "Dynamic blog card from the neonatology content cluster.",
+          "articleUrl": "https://www.motherhoodindia.com/blogs/"
+        }
+      ]
+    },
+    "relatedCareSearchesSection": {
+      "enabled": true,
+      "heading": "Related Care Searches in Bangalore",
+      "categoriesList": [
+        {
+          "title": "Specialists & Doctor Search Pages",
+          "items": [
+            { "label": "Gynaecologists in Bangalore", "url": "https://www.motherhoodindia.com/specialists/gynaecologists-in-bangalore" },
+            { "label": "Paediatricians in Bangalore", "url": "https://www.motherhoodindia.com/specialists/paediatricians-in-bangalore" },
+            { "label": "Obstetricians in Bangalore", "url": "https://www.motherhoodindia.com/specialists/obstetricians-in-bangalore" },
+            { "label": "Neonatologists in Bangalore", "url": "https://www.motherhoodindia.com/specialists/neonatologists-in-bangalore" },
+            { "label": "Developmental Paediatricians", "url": "https://www.motherhoodindia.com/specialists/developmental-paediatricians" },
+            { "label": "Fetal Medicine Specialists", "url": "https://www.motherhoodindia.com/specialists/fetal-medicine-specialists" }
+          ]
+        },
+        {
+          "title": "Conditions & Treatment Search Pages",
+          "items": [
+            { "label": "Fibroid care in Bangalore", "url": "https://www.motherhoodindia.com/conditions/fibroid-care-in-bangalore" },
+            { "label": "PCOS treatment in Bangalore", "url": "https://www.motherhoodindia.com/conditions/pcos-treatment-in-bangalore" },
+            { "label": "Endometriosis care in Bangalore", "url": "https://www.motherhoodindia.com/conditions/endometriosis-care-in-bangalore" },
+            { "label": "High risk pregnancy care", "url": "https://www.motherhoodindia.com/conditions/high-risk-pregnancy-care" },
+            { "label": "Childhood asthma care", "url": "https://www.motherhoodindia.com/conditions/childhood-asthma-care" },
+            { "label": "Child vaccination in Bangalore", "url": "https://www.motherhoodindia.com/conditions/child-vaccination-in-bangalore" }
+          ]
+        },
+        {
+          "title": "Procedure & Cost Search Pages",
+          "items": [
+            { "label": "Myomectomy in Bangalore", "url": "https://www.motherhoodindia.com/procedures/myomectomy-in-bangalore" },
+            { "label": "Hysterectomy in Bangalore", "url": "https://www.motherhoodindia.com/procedures/hysterectomy-in-bangalore" },
+            { "label": "Myomectomy cost in Bangalore", "url": "https://www.motherhoodindia.com/procedures/myomectomy-cost-in-bangalore" },
+            { "label": "Normal delivery cost in Bangalore", "url": "https://www.motherhoodindia.com/procedures/normal-delivery-cost-in-bangalore" },
+            { "label": "C section cost in Bangalore", "url": "https://www.motherhoodindia.com/procedures/c-section-cost-in-bangalore" }
+          ]
+        },
+        {
+          "title": "Hyperlocal Doctor Pages",
+          "items": [
+            { "label": "Paediatricians in Whitefield", "url": "https://www.motherhoodindia.com/hyperlocal/paediatricians-in-whitefield" },
+            { "label": "Gynaecologists in Whitefield", "url": "https://www.motherhoodindia.com/hyperlocal/gynaecologists-in-whitefield" },
+            { "label": "Paediatricians in Hebbal", "url": "https://www.motherhoodindia.com/hyperlocal/paediatricians-in-hebbal" },
+            { "label": "Gynaecologists in Hebbal", "url": "https://www.motherhoodindia.com/hyperlocal/gynaecologists-in-hebbal" },
+            { "label": "Paediatricians in Sarjapur", "url": "https://www.motherhoodindia.com/hyperlocal/paediatricians-in-sarjapur" },
+            { "label": "Gynaecologists in Sarjapur", "url": "https://www.motherhoodindia.com/hyperlocal/gynaecologists-in-sarjapur" },
+            { "label": "Paediatricians in Banashankari", "url": "https://www.motherhoodindia.com/hyperlocal/paediatricians-in-banashankari" },
+            { "label": "Gynaecologists in Banashankari", "url": "https://www.motherhoodindia.com/hyperlocal/gynaecologists-in-banashankari" }
+          ]
+        }
+      ]
+    },
+    "faqSection": {
+      "enabled": true,
+      "heading": "Frequently Asked Questions About Motherhood Hospitals in Bangalore",
+      "tabsList": [
+        {
+          "tabName": "Hospitals & City Care",
+          "questions": [
+            {
+              "question": "Where can I find Motherhood Hospitals in Bangalore?",
+              "answer": "Motherhood Hospitals has multiple branches across Bangalore including Indiranagar, Whitefield, Hebbal, Banashankari, and Sarjapur."
+            },
+            {
+              "question": "How can I find the Motherhood location nearest to me?",
+              "answer": "Aap hamare hospital locations section ka use karke apne sabse nazdiki Motherhood hospital ka pata laga sakte hain."
+            },
+            {
+              "question": "Where can I explore maternity, pregnancy and birthing care in Bangalore?",
+              "answer": "Hamare Bangalore centers par comprehensive maternity packages aur advanced labor delivery rooms uplabdh hain."
+            },
+            {
+              "question": "Where can I find gynaecology care in Bangalore?",
+              "answer": "Hamari gynaecology team PCOS, fibroids, endometriosis aur women wellness ke liye specialized care deti hai."
+            },
+            {
+              "question": "Where can I find paediatric or children's hospital care in Bangalore?",
+              "answer": "Bangalore ke sabhi centers par 24/7 paediatric emergency aur vaccination clinics ki suvidha hai."
+            }
+          ]
+        },
+        {
+          "tabName": "Doctors & Specialists",
+          "questions": [
+            {
+              "question": "How can I find a gynaecologist in Bangalore?",
+              "answer": "Aap hamari website par doctor directory ya find doctors section ke zariye Bangalore ke top gynaecologists ko search kar sakte hain."
+            },
+            {
+              "question": "How can I find a paediatrician in Bangalore?",
+              "answer": "Hamare paas experienced paediatricians ki team hai jo newborn care aur immunization me expert hain."
+            },
+            {
+              "question": "How can I find an obstetrician for pregnancy care?",
+              "answer": "Aap prenatal care aur safe deliveries ke liye hamare senior obstetricians me se chunav kar sakte hain."
+            },
+            {
+              "question": "Where can I find neonatologists in Bangalore?",
+              "answer": "Hamare Level III NICU units me expert neonatologists 24/7 uplabdh hote hain."
+            },
+            {
+              "question": "Can I search for doctors by Motherhood hospital location?",
+              "answer": "Haan, aap apne preferred hospital branch ke mutabiq specialists ko filter kar sakte hain."
+            }
+          ]
+        },
+        {
+          "tabName": "Conditions, Treatments & Procedures",
+          "questions": [
+            {
+              "question": "Where can I learn about PCOS or fibroid care in Bangalore?",
+              "answer": "Hum PCOS aur fibroids ke prabandhan ke liye specialized clinics aur advanced treatments provide karte hain."
+            },
+            {
+              "question": "Where can I explore endometriosis care?",
+              "answer": "Endometriosis ke liye hamari multi-disciplinary team advanced diagnostic aur surgical solutions deti hai."
+            },
+            {
+              "question": "Where can I explore care for a high risk pregnancy?",
+              "answer": "High-risk pregnancies ke liye hamare paas maternal-fetal medicine specialists aur advanced monitoring units hain."
+            },
+            {
+              "question": "Where can I explore care for childhood asthma or allergies?",
+              "answer": "Hum bachon ke liye pediatric pulmonology consultations aur allergy management plans offer karte hain."
+            },
+            {
+              "question": "Where can I find information about gynaecology procedures?",
+              "answer": "Laparoscopy, hysterectomy aur myomectomy jaise procedures ki jankari hamare site par uplabdh hai."
+            }
+          ]
+        },
+        {
+          "tabName": "Packages & Practical Information",
+          "questions": [
+            {
+              "question": "Where can I explore maternity or child health packages in Bangalore?",
+              "answer": "Aap delivery bundles aur vaccination packages ke liye hamare Care Packages section ko check kar sakte hain."
+            },
+            {
+              "question": "Can I see Google ratings and patient reviews for each Bangalore location?",
+              "answer": "Haan, patient reviews aur ratings hamare video stories section me dekhne ko mil jayengi."
+            },
+            {
+              "question": "Where can I explore fetal medicine in Bangalore?",
+              "answer": "Hamara fetal medicine department anomaly scans aur genetic counseling ki suvidha deta hai."
+            },
+            {
+              "question": "How can I book an appointment at Motherhood Hospitals in Bangalore?",
+              "answer": "Aap header me diye gaye 'Book Appointment' button par click karke ya helpline par call karke appointment book kar sakte hain."
+            },
+            {
+              "question": "How do I confirm current services, timings or doctor availability?",
+              "answer": "Aap hamare support desk par call karke doctor timings aur services ki pushti kar sakte hain."
+            }
+          ]
+        }
+      ]
+    },
+    "needHelpSection": {
+      "enabled": true,
+      "headingPart1": "Need Help Choosing the",
+      "headingHighlight": "Right Care",
+      "headingPart2": "in Bangalore?",
+      "subtitle": "Start with the hospital, specialty or doctor pathway above, or contact Motherhood Hospitals for appointment assistance.",
+      "bookAppointmentUrl": "https://www.motherhoodindia.com/book-appointment/",
+      "phoneText": "Call 96203 96203",
+      "phoneTel": "9620396203"
+    }
+  }
+}
