@@ -3,6 +3,23 @@ import path from 'path';
 import { notFound } from 'next/navigation';
 import DoctorsDirectoryClient from '@/components/DoctorsDirectoryClient';
 
+export async function generateStaticParams() {
+  try {
+    const dataDir = path.join(process.cwd(), 'data', 'hospitals');
+    if (!fs.existsSync(dataDir)) return [];
+    
+    const filenames = fs.readdirSync(dataDir);
+    return filenames
+      .filter((file) => file.endsWith('.json'))
+      .map((file) => ({
+        slug: file.replace(/\.json$/, ''),
+      }));
+  } catch (error) {
+    console.error("Error generating static params:", error);
+    return [];
+  }
+}
+
 async function getHospitalData(slug) {
   try {
     const filePath = path.join(process.cwd(), 'data', 'hospitals', `${slug}.json`);
