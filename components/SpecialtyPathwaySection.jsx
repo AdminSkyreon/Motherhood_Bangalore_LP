@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 export default function SpecialtyPathwaySection({ pathway }) {
   if (!pathway) return null;
@@ -14,7 +15,7 @@ export default function SpecialtyPathwaySection({ pathway }) {
             {pathway.iconSrc && (
               <div className="w-24 h-24 sm:w-28 sm:h-28 flex-shrink-0 bg-rose-50/60 rounded-full flex items-center justify-center p-3 border border-rose-100 shadow-sm overflow-hidden">
                 <img
-                  src={pathway.iconSrc}
+                  src={withBase(pathway.iconSrc)}
                   alt={pathway.title || "Specialty Icon"}
                   className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-300"
                 />

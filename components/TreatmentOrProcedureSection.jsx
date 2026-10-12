@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 import { useRef, useEffect } from 'react';
 
 export default function TreatmentOrProcedureSection({ data }) {
@@ -78,7 +79,7 @@ export default function TreatmentOrProcedureSection({ data }) {
               {/* Icon with minimal vertical spacing */}
               <div className="h-14 flex items-center justify-center mb-1">
                 <img 
-                  src={item.iconSrc} 
+                  src={withBase(item.iconSrc)} 
                   alt={item.title} 
                   className="h-12 w-12 object-contain group-hover:scale-110 transition-transform duration-300" 
                 />

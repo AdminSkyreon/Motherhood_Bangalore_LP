@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 export default function SpecialtiesGridSection({ section }) {
   if (!section || !section.enabled) return null;
@@ -33,7 +34,7 @@ export default function SpecialtiesGridSection({ section }) {
                 {card.iconSrc && (
                   <div className="w-14 h-14 sm:w-16 sm:h-16 flex-shrink-0 flex items-center justify-center p-1 group-hover:scale-110 transition-transform duration-300">
                     <img
-                      src={card.iconSrc}
+                      src={withBase(card.iconSrc)}
                       alt={card.title}
                       className="w-12 h-12 sm:w-14 sm:h-14 object-contain"
                     />

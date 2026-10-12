@@ -1,3 +1,4 @@
+import { withBase } from '@/lib/withBase';
 export default function LandingHeroSection({ banner }) {
   return (
     <section className="bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-4 sm:py-8 px-4 sm:px-8 max-w-7xl mx-auto overflow-hidden">
@@ -55,7 +56,7 @@ export default function LandingHeroSection({ banner }) {
         <div className="relative mt-2 lg:mt-0">
           <div className="overflow-hidden rounded-t-[100px] lg:rounded-l-[200px] lg:rounded-r-3xl shadow-lg bg-rose-50 h-[240px] sm:h-[360px]">
             <img
-              src={banner.heroImage || '/hero-img.png'}
+              src={withBase(banner.heroImage || '/hero-img.png')}
               alt="Hero Mother and Child"
               className="w-full h-full object-cover"
             />

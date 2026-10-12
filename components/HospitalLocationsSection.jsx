@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 import { useState } from 'react';
 
@@ -42,7 +43,7 @@ export default function HospitalLocationsSection({ section }) {
                 {hospital.imageSrc && (
                   <div className="h-36 w-full overflow-hidden bg-gray-100">
                     <img
-                      src={hospital.imageSrc}
+                      src={withBase(hospital.imageSrc)}
                       alt={hospital.name}
                       className="w-full h-full object-cover hover:scale-105 transition duration-300"
                     />

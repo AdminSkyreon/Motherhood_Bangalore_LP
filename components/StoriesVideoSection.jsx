@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 import React, { useEffect, useRef, useState } from 'react';
 import Hls from 'hls.js';
@@ -35,7 +36,7 @@ function StoryCard({ story }) {
     const video = videoRef.current;
     if (!video) return;
 
-    const videoSrc = story.videoUrl; // e.g., '/videos/women-health.m3u8'
+    const videoSrc = withBase(story.videoUrl); // e.g., '/videos/women-health.m3u8'
 
     if (video.canPlayType('application/vnd.apple.mpegurl')) {
       // Safari support
@@ -71,7 +72,7 @@ function StoryCard({ story }) {
       >
         <video
           ref={videoRef}
-          poster={story.thumbnailSrc}
+          poster={withBase(story.thumbnailSrc)}
           className="w-full h-full object-cover"
           onEnded={() => setIsPlaying(false)}
           playsInline
