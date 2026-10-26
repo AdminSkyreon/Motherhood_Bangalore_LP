@@ -3,11 +3,15 @@ export default function SpecialtyGridSection({ section }) {
   if (!section || !section.enabled) return null;
 
   return (
-    <section className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-12 px-4 sm:px-6 lg:px-8 my-0">
+    <section 
+      id="specialties-section" 
+      /* Yahan top padding ko pt-2 sm:pt-4 kar diya hai taaki upar ka extra gap minimize ho jaye */
+      className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 pt-2 sm:pt-4 pb-6 px-4 sm:px-6 lg:px-8 my-0 scroll-mt-10"
+    >
       <div className="max-w-7xl mx-auto">
         {/* Section Header */}
         {section.title && (
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-center text-slate-900 mb-8 sm:mb-12">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-center text-slate-900 mb-6 sm:mb-8">
             {section.title}
           </h2>
         )}

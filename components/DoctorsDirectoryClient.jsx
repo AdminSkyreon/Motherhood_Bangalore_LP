@@ -51,7 +51,7 @@ export default function DoctorsDirectoryClient({ data, slug }) {
         <img src={withBase(site.assets?.logoSrc || '/motherhood-logo.png')} alt="Logo" className="h-10 object-contain" />
         <a 
           href={site.bookAppointmentUrl || "#"} 
-          className="bg-[#DB5070] hover:bg-[#c44563] text-white font-medium px-5 py-2.5 rounded-full text-sm shadow-sm transition"
+          className="bg-[#DB5070] hover:bg-[#c44563] text-white font-medium px-3.5 py-2 sm:px-5 sm:py-2.5 rounded-full text-xs sm:text-sm shadow-sm transition whitespace-nowrap"
         >
           Book Appointment
         </a>

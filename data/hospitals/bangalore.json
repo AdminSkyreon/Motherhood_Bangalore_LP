@@ -195,11 +195,11 @@
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+HRBR+Layout+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Electronic City, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/electronic-city.png",
+          "name": "Motherhood Hospital Banashankari, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/banashankari.png",
           "rating": "4.5",
           "reviewsCount": "410+ reviews",
-          "address": "Opposite Velankani Tech Park, Electronic City Phase 1, Bengaluru 560100",
+          "address": "4, 30th Main Rd, Banashankari 3rd Stage, Opp Kempegowda Institute of Medical Science, Bangalore 56008",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/electronic-city/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Electronic+City+Bangalore"
@@ -209,64 +209,64 @@
           "imageSrc": "/images/hospitals/bangalore/hebbal.png",
           "rating": "4.4",
           "reviewsCount": "320+ reviews",
-          "address": "Outer Ring Road, Hebbal, Bengaluru 560024",
+          "address": "2266/17 and 18, Service Road, G Block, Sahakara Nagar, International Airport Road, Hebbal, Bengaluru 560092",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/hebbal/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Hebbal+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Banashankari, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/banashankari.png",
+          "name": "Motherhood Hospital Sarjapur, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/sarjapur.png",
           "rating": "4.5",
           "reviewsCount": "280+ reviews",
-          "address": "Outer Ring Road, Banashankari, Bengaluru 560085",
+          "address": "2nd Floor, No. 514/1, 2 and 3, Sarjapur Main Road, Opposite More Mall, Kaikondrahalli, Bengaluru 560035",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/banashankari/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Banashankari+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Sarjapur Road, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/sarjapur.png",
+          "name": "Motherhood Hospital Electronic City, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/electronic-city.png",
           "rating": "4.6",
           "reviewsCount": "450+ reviews",
-          "address": "Sarjapur Main Road, Bengaluru 560102",
+          "address": "No. 8321, Survey No 164, Neeladri Road, Electronic City Phase I, Bengaluru 560100",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/sarjapur-road/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Sarjapur+Road+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Jayanagar, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/jayanagar.png",
+          "name": "Motherhood Hospital Kanakapura Road, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/kp-road.png",
           "rating": "4.8",
           "reviewsCount": "610+ reviews",
-          "address": "9th Main Road, 3rd Block, Jayanagar, Bengaluru 560011",
+          "address": "#3490, 1st Floor, 80FT Road, Banashankari 6th Stage, 4 H Block, Bengaluru 560062",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/jayanagar/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Jayanagar+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Marathahalli, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/marathahalli.png",
+          "name": "Motherhood Hospital Kannamangala Clinic, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/kg-clinic.png",
           "rating": "4.4",
           "reviewsCount": "340+ reviews",
-          "address": "Outer Ring Road, Marathahalli, Bengaluru 560103",
+          "address": "2nd Floor, Uptown Square, Seegehalli, Near 10 Downing Villas, Hoskote Road, Kannamangala, Bengaluru 560067",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/marathahalli/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+Marathahalli+Bangalore"
         },
         {
-          "name": "Motherhood Hospital RT Nagar, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/rt-nagar.png",
+          "name": "Motherhood Hospital Jeevanbhima Nagar, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/jb-nagar.png",
           "rating": "4.5",
           "reviewsCount": "220+ reviews",
-          "address": "RT Nagar Main Road, Bengaluru 560032",
+          "address": "No. 1306, A & D Loft, HAL 3rd Stage, Jeevan Bhima Nagar Main Road, Kodihalli, Bengaluru 560008",
           "viewHospitalUrl": "https://www.motherhoodindia.com/locations/bangalore/rt-nagar/",
           "phoneTel": "08067238946",
           "directionUrl": "https://maps.google.com/?q=Motherhood+Hospital+RT+Nagar+Bangalore"
         },
         {
-          "name": "Motherhood Hospital Yelahanka, Bangalore",
-          "imageSrc": "/images/hospitals/bangalore/yelahanka.png",
+          "name": "Motherhood Hospital Electronic City Phase 2, Bangalore",
+          "imageSrc": "/images/hospitals/bangalore/e-city.png",
           "rating": "4.6",
           "reviewsCount": "290+ reviews",
           "address": "Byatarayanapura, New Town, Yelahanka, Bengaluru 560064",
@@ -349,6 +349,1842 @@
           "location": "Bangalore, Electronic City Phase 2, Electronic City",
           "experience": "7+ Years",
           "imageSrc": "/images/doctors/bangalore/haridharshan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. PT Shiny Hepzibah S",
+          "qualification": "Master’s in physiotherapy( specialization in Obstetrics and Gynecological Disorders), Bachelors of Physiotherapy",
+          "specialty": "Consultant Physiotherapist",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "2+ Years",
+          "imageSrc": "/images/doctors/bangalore/shiny.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Roopesh N",
+          "qualification": "Gynaecological Oncology, Gynecological & Laparoscopic Surgery",
+          "specialty": "Clinical Lead & Senior Consultant",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/roopesh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Shalini G R",
+          "qualification": "MBBS, MDRD, Fellowship in Fetal Medicine",
+          "specialty": "Consultant - Fetal Medicine & Radiology",
+          "location": "Bangalore, Banashankari",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/shalini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Swati Shree",
+          "qualification": "MBBS , DNB -OBG, MRCOG, Fellowship in Reproductive Medicine",
+          "specialty": "Consultant – Reproductive Medicine and IVF",
+          "location": "Bangalore, Whitefield, Kannamangala Clinic",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/swati.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sandesh C.S",
+          "qualification": "MBBS, MD, DM (Neonatology)",
+          "specialty": "Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Whitefield",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/sandesh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Partha Pratim Paul",
+          "qualification": "MBBS, MD, DNB",
+          "specialty": "Paediatrics medicine and nephrology",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic, Sarjapur",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/partha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Navya B G",
+          "qualification": "MSC in Nutrition",
+          "specialty": "Consultant - Dietician",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/navya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Vishruth K Raj",
+          "qualification": "MBBS, MS General Surgery, MCh Urology",
+          "specialty": "Fertility Andrologist Consultant",
+          "location": "Bangalore, BanashankariBangalore, Banashankari",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/vishruth.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Akshay A Reshmi",
+          "qualification": "MBBS, DNB, MD Radiodiagnosis",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic, Indiranagar",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/akshay.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Bharath S",
+          "qualification": "MBBS, DNB(Paediatrics), Fellowship in Neonatology",
+          "specialty": "Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Whitefield",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/bharath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Ms. Kavya S",
+          "qualification": "Bachelor Of Physiotherapy (BPT)",
+          "specialty": "Consultant- Physiotherapist",
+          "location": "Bangalore, Sarjapur",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/kavya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Suguna K V",
+          "qualification": "MBBS, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "22+ Years",
+          "imageSrc": "/images/doctors/bangalore/suguna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Hemanthi Reddy",
+          "qualification": "MBBS MS DNB (OBG)",
+          "specialty": "Consultant - Obstetrics and Gynecology",
+          "location": "Bangalore, Kothanur",
+          "experience": "4+ Years",
+          "imageSrc": "/images/doctors/bangalore/hemanthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Abhilasha Somashekhar",
+          "qualification": "MBBS, MS(ENT), Fellowship in Paediatric ENT",
+          "specialty": "Consultant-Pediatric ENT",
+          "location": "Bangalore, Sarjapur",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/abhilasha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Haritha P",
+          "qualification": "MBBS, MD radiology",
+          "specialty": "Consultant Fetal medicine and Radiologist",
+          "location": "Bangalore, Whitefield",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/haritha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Lissy Varghese",
+          "qualification": "MBBS, MS",
+          "specialty": "Consultant - Obstetrics and Gynecology",
+          "location": "Bangalore, Kanakapura Road Clinic",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/lissy.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sindhuraj M N",
+          "qualification": "MBBS,MD (Paediatrics), Fellowship in Neonatology",
+          "specialty": "Consultant: Neonatology and Paediatrics",
+          "location": "Bangalore, Kothanur",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/sindhuraj.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Kavitha G S",
+          "qualification": "B.Sc. (Speech and Hearing) M.Sc. (Audiology) Fellowship in Cochlear Implant",
+          "specialty": "Audiology & Speech Language Pathology",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/kavitha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Pooja Ramesh",
+          "qualification": "MS (Obstetrics & Gynaecology), MBBS",
+          "specialty": "Consultant - Obstetrician & Gynaecologist",
+          "location": "Bangalore, Electronic City Phase 2, Electronic City",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/pooja.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Swathi Rachabattula",
+          "qualification": "MRCGP (UK) and CCT (UK)",
+          "specialty": "Consultant internal medicine and diabetologist",
+          "location": "Bangalore, Kannamangala Clinic",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/swathi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Deepa Rama Reddy",
+          "qualification": "MBBS,MS and FMAS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Electronic City Phase 2, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepa.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vempalli Reddisai Raju",
+          "qualification": "DNB Radio Diagnosis",
+          "specialty": "Consultant - Fetal medicine",
+          "location": "Bangalore, Electronic City",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/vempalli.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Pramod V U",
+          "qualification": "MBBS, MD(Pediatrics), DrNB(Pediatric Critical Care)",
+          "specialty": "Consultant - Pediatric Critical Care",
+          "location": "Bangalore, Sarjapur",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/pramod.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Mohammed Yaqub",
+          "qualification": "MBBS, MS (Orthopaedics), FIPO",
+          "specialty": "Consultant- Orthopaedic & Trauma Surgeon",
+          "location": "Bangalore, Banashankari, HRBR Layout",
+          "experience": "4+ Years",
+          "imageSrc": "/images/doctors/bangalore/mohammed.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Ravikiran K",
+          "qualification": "MBBS, MS, MCh, DNB",
+          "specialty": "Consultant Pediatric Surgeon",
+          "location": "Bangalore, Sarjapur",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/ravikiran.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Dheepthi K",
+          "qualification": "M.B.B.S., DNB Pediatrics, MRCPCH (UK)",
+          "specialty": "Consultant - Pediatrics",
+          "location": "Bangalore, Kanakapura Road Clinic",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/dheepthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Reshma Chillal",
+          "qualification": "MBBS, MD(Pediatrics), DrNB(Pediatric Critical Care)",
+          "specialty": "Consultant -Pediatric Critical Care",
+          "location": "Bangalore, Sarjapur",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/reshma.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Manu C",
+          "qualification": "MBBS, DCH, Fellowship in neonatology (FRGUHS), PGPN (Boston)",
+          "specialty": "Consultant - Neonatologist and Paediatric",
+          "location": "Bangalore, Electronic City Phase 2, Electronic City",
+          "experience": "9+ Years",
+          "imageSrc": "/images/doctors/bangalore/manu.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ruchi Sharma",
+          "qualification": "BSc., MSc.(Food and Nutrition), certified from AIIMS New Delhi",
+          "specialty": "Dietician",
+          "location": "Bangalore, Whitefield",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/ruchi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Varun Balineni",
+          "qualification": "MBBS, DCH, PGPN (Boston)",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/varun.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Shabeena Badal",
+          "qualification": "BDS",
+          "specialty": "Consultant - Dental Surgeon",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "20+ Years",
+          "imageSrc": "/images/doctors/bangalore/shabeena.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Deepika S",
+          "qualification": "MBBS, DGO, DNB (OBG), FMAS, DMAS",
+          "specialty": "Associate Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepika.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Gladline Florita Crasta",
+          "qualification": "B.Sc. (Food, Nutrition and Dietetics), M.Sc. (Food science and Nutrition)",
+          "specialty": "Consultant- Dietitian",
+          "location": "Bangalore, Kothanur",
+          "experience": "4+ Years",
+          "imageSrc": "/images/doctors/bangalore/gladline.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sreevidya Sreekantha",
+          "qualification": "MBBS, MD, FFAPP",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, Indiranagar",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/sreevidya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rashmi Kapoor",
+          "qualification": "BPTh/BPT Therapist",
+          "specialty": "Consultant - Physiotherapist",
+          "location": "Bangalore, Indiranagar",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/rashmi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Yamini Saroja G",
+          "qualification": "MBBS, MS (Obstetrics & Gynaecology)",
+          "specialty": "Consultant - Gynaecology",
+          "location": "Bangalore, Whitefield",
+          "experience": "9+ Years",
+          "imageSrc": "/images/doctors/bangalore/yamini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Amrutha Pentakota",
+          "qualification": "MBBS, MS (Obstetrics & Gynaecology)",
+          "specialty": "Consultant- Obstetrician Gynecologist & Laparoscopic Surgeon",
+          "location": "Bangalore, Whitefield",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/amrutha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shaista Sehar R S",
+          "qualification": "BPT, FIFA DSM, ACLP, IYCF(BPNI)",
+          "specialty": "Consultant - Lactation",
+          "location": "Bangalore, Whitefield",
+          "experience": "4+ Years",
+          "imageSrc": "/images/doctors/bangalore/shaista.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Praisy Juliet (PT)",
+          "qualification": "BPT, MIAP, MPT- OBG",
+          "specialty": "Consultant- Physiotherapist",
+          "location": "Bangalore, Whitefield",
+          "experience": "2+ Years",
+          "imageSrc": "/images/doctors/bangalore/praisy.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shwetha Hegde",
+          "qualification": "MSc (Medical) in Clinical Embryology",
+          "specialty": "Consultant - Embryologist",
+          "location": "Bangalore, Sarjapur",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/shwetha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rashmi R",
+          "qualification": "MBBS, MD Radiodiagnosis",
+          "specialty": "Radiologist & Fetal Medicine Specialist",
+          "location": "Bangalore, Indiranagar",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/rashmir.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr.  Ayesha Siddiqua",
+          "qualification": "BUMS, IBCLC, ACLP",
+          "specialty": "Lactation Consultant, IBCLC, ACLP",
+          "location": "Bangalore, Banashankari",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/ayesha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Amrutha Rajendra (PT)",
+          "qualification": "BPT",
+          "specialty": "Consultant Physiotherapist – Paediatric, Women’s Health, Neurological & Musculoskeletal Rehabilitation",
+          "location": "Bangalore, Banashankari",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/amruthar.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Bhavana Girish",
+          "qualification": "MBBS, MD, DNB, FRM, FMAS",
+          "specialty": "Consultant - Reproductive Medicine",
+          "location": "Bangalore, Banashankari",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/bhavana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Anitha Raju",
+          "qualification": "MBBS, MD (Pediatrics), DNB (Neonatology)",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/anitha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vandana S",
+          "qualification": "MD (Radiodiagnosis), Fellowship in Fetal Medicine",
+          "specialty": "Consultant – Radiodiagnostics and Fetal Medicine",
+          "location": "Bangalore, Electronic City",
+          "experience": "6+ Years",
+          "imageSrc": "/images/doctors/bangalore/vandana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ms. Shreya Suman",
+          "qualification": "Master of Physiotherapy (MPT) in Pediatrics",
+          "specialty": "Consultant-Child Development",
+          "location": "Bangalore, Sarjapur",
+          "experience": "2+ Years",
+          "imageSrc": "/images/doctors/bangalore/shreya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rituparna Bera",
+          "qualification": "MBBS, DNB (Obstetrics & Gynaecologist)",
+          "specialty": "Consultant - Obstetrics",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/rituparna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Pallavi H. S.",
+          "qualification": "MBBS, DGO, FMAS, DMAS, Fellowship in ART",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/pallavi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Amith Ahmed B A",
+          "qualification": "MBBS, MD Pediatrics, Fellowship in Neonatology",
+          "specialty": "Consultant - Neonatology and Pediatrics",
+          "location": "Bangalore, Indiranagar",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/amith.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ujjwala Mantha",
+          "qualification": "MBBS, MD",
+          "specialty": "Consultant- Pediatrics and Neonatology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/ujjwala.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Nimmu Roy",
+          "qualification": "BPT",
+          "specialty": "Consultant - Senior Physiotherapist",
+          "location": "Bangalore, Hebbal",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/nimmu.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Namratha",
+          "qualification": "MBBS, MD (Pediatrics), Fellowship in Pediatric Neurology",
+          "specialty": "Consultant Pediatric Neurologist",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/namratha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Savithri DR",
+          "qualification": "MBBS DNB (OBG), MNAMS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "35+ Years",
+          "imageSrc": "/images/doctors/bangalore/savithri.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Priyanka Dass",
+          "qualification": "",
+          "specialty": "Consultant - Obstetrician, Gynecologist, Infertility Specialist, Laparoscopic Surgeon (Obs & Gyn)",
+          "location": "Bangalore, Kothanur",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/priyanka.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sandhya Ghode",
+          "qualification": "MBBS, MS, DNB, FICOG (BOM)",
+          "specialty": "Consultant - Infertility Specialist",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic, Indiranagar",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/sandhya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Meghana Subramanya H",
+          "qualification": "MBBS, MS (OBG), FIRM, RGUHS",
+          "specialty": "Consultant - Reproductive Medicine (IVF)",
+          "location": "Bangalore, Hebbal",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/meghana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Anupama Ashok",
+          "qualification": "MBBS, MS(OBG), Fellowship in Reproductive Medicine (Fertility Specialty)",
+          "specialty": "Senior Consultant - Reproductive Medicine (IVF)",
+          "location": "Bangalore, Hebbal",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/anupama.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Varna V Rao",
+          "qualification": "MBBS, MD, MRCOG (UK)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "34+ Years",
+          "imageSrc": "/images/doctors/bangalore/varna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Avani Hegde",
+          "qualification": "MBBS, MD (Paediatrics)",
+          "specialty": "Consultant - Paediatrician and Adolescent Endocrinology",
+          "location": "Bangalore, Banashankari",
+          "experience": "6+ Years",
+          "imageSrc": "/images/doctors/bangalore/avani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sneha Lingappa",
+          "qualification": "MBBS, DCH, DNB, FRGUHS (Neonatology)",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/sneha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vinutha V",
+          "qualification": "MBBS, MD (Anaesthesiology)",
+          "specialty": "Consultant- Anesthesiology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/vinutha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Navami",
+          "qualification": "MBBS, MD (Anaesthesiology)",
+          "specialty": "Consultant- Anesthesiology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/navami.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Kavya M S",
+          "qualification": "MBBS, MD (Anaesthesiology)",
+          "specialty": "Consultant- Anesthesiology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/kavyam.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Naveed Abrar",
+          "qualification": "MBBS, MD (ANAESTHESIA AND CRITICAL CARE)",
+          "specialty": "Consultant- Anesthesiology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/naveed.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sachin",
+          "qualification": "MBBS, MD (GENERAL MEDICINE)",
+          "specialty": "Consultant - General Medicine",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/sachin.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nazarath Nirmal Raj",
+          "qualification": "MBBS, DCH (PEDIATRICS), NNF",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Hebbal",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/nazarath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Pradeepa R.",
+          "qualification": "MBBS, DNB, DGO, MRCOG (UK), FMAS, MNFMS, MICOG",
+          "specialty": "Obstetrician, Gynaecologist, Infertility Specialist & Laparoscopic Surgeon",
+          "location": "Bangalore, Banashankari",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/pradeepa.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nandan N",
+          "qualification": "BDS, MDS (Pediatric & Preventive Dentistry), M.S (Counseling & Psychotherapy)",
+          "specialty": "Consultant- Pediatric & Preventive Dentist",
+          "location": "Bangalore, Banashankari",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/nandan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Aarthi B Pramod",
+          "qualification": "MBBS, DNB (Paed), MRCPCH (Paed), IAP-AOPN Fellowship in Paediatric Neurology",
+          "specialty": "Consultant - Paediatric Neurologist",
+          "location": "Bangalore, Banashankari",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/aarthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Raghavendra S",
+          "qualification": "BDS",
+          "specialty": "Consultant - Dental Surgeon",
+          "location": "Bangalore, Banashankari",
+          "experience": "26+ Years",
+          "imageSrc": "/images/doctors/bangalore/raghavendra.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Evangeline Reeni Christian",
+          "qualification": "MBBS, DGO, MS(OBG), PGDHHM",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "22+ Years",
+          "imageSrc": "/images/doctors/bangalore/evangeline.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Harini Sreedaran",
+          "qualification": "",
+          "specialty": "Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/harini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Anjali R",
+          "qualification": "MBBS, MS (OBG), DNB, MNAMS, Fellowship in Fetal Medicine",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/anjali.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Mehnaz Rashid",
+          "qualification": "M.B.B.S, DNB, D.MAS, F.MAS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/mehnaz.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vivekanand M. Kustagi",
+          "qualification": "MBBS, MD (Paediatrics), DNB, PGPN, AAAC, NIPCP",
+          "specialty": "Senior Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, Banashankari",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/vivekanand.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Mugdha Lakhotia",
+          "qualification": "MBBS, MD (Internal Medicine), DNB (Internal Medicine), MRCP (UK)",
+          "specialty": "Consultant - Internal Medicine",
+          "location": "Bangalore, Sarjapur",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/mugdha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Kusuma M Vijay",
+          "qualification": "MBBS DGO, DNB - Obstetrics & Gynaecology",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "24+ Years",
+          "imageSrc": "/images/doctors/bangalore/kusuma.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Stephanie Rachel D'Souza",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Neonatology",
+          "specialty": "Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "6+ Years",
+          "imageSrc": "/images/doctors/bangalore/stephanie.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rajiv Aggarwal",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Neonatology (Australia)",
+          "specialty": "Senior Consultant - Paediatric Intensivist & Neonatology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "35+ Years",
+          "imageSrc": "/images/doctors/bangalore/rajiv.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Prathima A.",
+          "qualification": "MBBS, MS (OBG), MCH (Urogynaecology) (UK)",
+          "specialty": "Consultant- Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/prathima.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Madhu Patil",
+          "qualification": "MBBS, DGO, DNB and Diploma in Reproductive Medicine (Germany)",
+          "specialty": "Consultant - Reproductive Medicine",
+          "location": "Bangalore, Electronic City, Sarjapur",
+          "experience": "13+ Years",
+          "imageSrc": "/images/doctors/bangalore/madhu.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shweta Sagar (PT)",
+          "qualification": "Bachelor of Physiotherapy, Master of Physiotherapy",
+          "specialty": "Consultation - Physiotherapy",
+          "location": "Bangalore, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/shweta.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Harsha Manubolu",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Pediatric Critical Care",
+          "specialty": "Consultant - PICU (Paediatric Intensive Care Unit)",
+          "location": "Bangalore, Banashankari",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/harsha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+          {
+          "name": "Dr. Harshini Bhat",
+          "qualification": "MBBS, MD (Paediatrics), IDPCCM",
+          "specialty": "Consultant - PICU (Paediatric Intensive Care Unit)",
+          "location": "Bangalore, Banashankari",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/harshini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Karthika",
+          "qualification": "MPT (Neurology), BPT",
+          "specialty": "Consultant - Lactation",
+          "location": "Bangalore, Sarjapur",
+          "experience": "3+ Years",
+          "imageSrc": "/images/doctors/bangalore/karthika.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+          {
+          "name": "Dr. Shiny Hepzibah S",
+          "qualification": "MPT( OBGYN)",
+          "specialty": "",
+          "location": "Bangalore, HRBR Layout",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/shiny.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Abhinandan H S",
+          "qualification": "MBBS, MD in Paediatrics",
+          "specialty": "Consultant - Paediatric",
+          "location": "Bangalore, HRBR Layout",
+          "experience": " 6+ Years",
+          "imageSrc": "/images/doctors/bangalore/abhinandan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Nataraj",
+          "qualification": "MBBS, MS, OBG,Gynecological & Laproscopic Surgery,Fellowship in Gynae Oncology & Minimal Access Surgery",
+          "specialty": "",
+          "location": "Bangalore, Kothanur",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/nataraj.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Nayana R",
+          "qualification": "MBBS,MD (General Medicine) General physician",
+          "specialty": "",
+          "location": "Bangalore, Banashankari",
+          "experience": " 4+ Years",
+          "imageSrc": "/images/doctors/bangalore/nayana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+          {
+          "name": "Dr. Mausam Katoch",
+          "qualification": "BSC (Home Science),MSC (Dietetics and food service management), MSC in Human nutrition (UK)",
+          "specialty": "",
+          "location": "Bangalore, Electronic City",
+          "experience": " 5+ Years",
+          "imageSrc": "/images/doctors/bangalore/mausam.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shrutika",
+          "qualification": "BDS (Bachelor of Dental Surgery), CDCRI, Chhattisgarh, Implantology (Fellowship from ICOI, USA) Consultant - Dentist",
+          "specialty": "",
+          "location": "Bangalore, Sarjapur",
+          "experience": " 18+ Years",
+          "imageSrc": "/images/doctors/bangalore/shrutika.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+          {
+          "name": "Dr. Anusha Antony",
+          "qualification": "MSc (Dietetics & Food Service management) Consultant - Dietitian",
+          "specialty": "",
+          "location": "Bangalore, Sarjapur",
+          "experience": " 1+ Years",
+          "imageSrc": "/images/doctors/bangalore/anusha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sahana M Gouda",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": " 15+ Years",
+          "imageSrc": "/images/doctors/bangalore/sahana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Mohan D Mahendraka",
+          "qualification": "MBBS, DCH (Diploman in child Health) DNB, Fellowship in Neonatalogy",
+          "specialty": "Consultant - Pediatrician and Neonatologist",
+          "location": "Bangalore, Kothanur",
+          "experience": " 19+ Years",
+          "imageSrc": "/images/doctors/bangalore/mohan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Vedamani K M",
+          "qualification": "MBBS , MS (OBG), DNB (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": " 4+ Years",
+          "imageSrc": "/images/doctors/bangalore/vedamani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Sravanthi Sangana",
+          "qualification": "MBBS, MD (Radiodiagnosis), Fellowship in Fetal Medicine",
+          "specialty": "Consultant- Radiologist & Fetal Medicine Specialist",
+          "location": "Bangalore, Kothanur, Hebbal",
+          "experience": " 5+ Years",
+          "imageSrc": "/images/doctors/bangalore/sravanthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Hemanth Kumar N.",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship In Neonatology (NNF), Fellowship in Paediatric Nutrition, PGPN",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Kothanur",
+          "experience": " 8+ Years",
+          "imageSrc": "/images/doctors/bangalore/hemanth.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sangeetha Rao",
+          "qualification": "MBBS, DGO (Fellowship in Gynaec Endoscopy - Germany), Diploma in Cosmetic Gynaecology (UK)",
+          "specialty": "Senior Consultant - Pregnancy care / Obstetrics / General Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": " 18+ Years",
+          "imageSrc": "/images/doctors/bangalore/sangeetha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+          {
+          "name": "Dr. Shruthi Kalagara",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Sarjapur",
+          "experience": " 10+ Years",
+          "imageSrc": "/images/doctors/bangalore/shruthik.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Ramya Arun Kumar",
+          "qualification": "MBBS, DGO",
+          "specialty": "Consultant - Obstetrics & Gynecology",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": " 8+ Years",
+          "imageSrc": "/images/doctors/bangalore/ramya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. K. Shilpa Chaithanya Reddy",
+          "qualification": "MBBS, DMRD, DNB",
+          "specialty": "Consultant – Radiology & Fetal Medicine",
+          "location": "Bangalore, Sarjapur",
+          "experience": " 14+ Years",
+          "imageSrc": "/images/doctors/bangalore/shilpa.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepika Alva",
+          "qualification": "MBBS, MS (OBG), Fellowship in Laparoscopy & Infertility",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": " 11+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepikaa.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Krithika Jagadish",
+          "qualification": "MBBS, MS (General Surgery), MCH (Plastic, Reconstructive & Burns Surgery)",
+          "specialty": "Consultant - Anaesthetic and Plastic Surgery",
+          "location": "Bangalore, Indiranagar",
+          "experience": " 10+ Years",
+          "imageSrc": "/images/doctors/bangalore/krithika.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Latha Shankar",
+          "qualification": "MBBS",
+          "specialty": "Consultant - Obstetrics, Gynaecology, and Reproductive Medicine",
+          "location": "Bangalore, Hebbal",
+          "experience": " 24+ Years",
+          "imageSrc": "/images/doctors/bangalore/latha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sowmyashree N.",
+          "qualification": "MBBS, DGO (OBG), PG-ART",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": " 9+ Years",
+          "imageSrc": "/images/doctors/bangalore/sowmyashree.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Mrs. Saritha Nagaraj",
+          "qualification": "BA, M.Sc. Psychology, UGC NET for Lectureship",
+          "specialty": "Consultant - Psychology and Child Development",
+          "location": "Bangalore, Banashankari",
+          "experience": " 14+ Years",
+          "imageSrc": "/images/doctors/bangalore/saritha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sharvari Mundhe",
+          "qualification": "MBBS, MS (OBG), DNB, FRM, DRM (Diploma in Advanced ART)",
+          "specialty": "Consultant - Gynaecology & Reproductive Medicine",
+          "location": "Bangalore, Sarjapur",
+          "experience": " 12+ Years",
+          "imageSrc": "/images/doctors/bangalore/sharvari.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Suvina N.",
+          "qualification": "MBBS, MD, FIPM, FRAPM(AORA)",
+          "specialty": "Consultant - Pain Management",
+          "location": "Bangalore, HRBR Layout",
+          "experience": " 5+ Years",
+          "imageSrc": "/images/doctors/bangalore/suvina.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Mohamed Mansoor Wazir",
+          "qualification": "MBBS, DNB (Anaesthesiology)",
+          "specialty": "Senior Consultant - Anaesthesiology",
+          "location": "Bangalore, HRBR Layout, Indiranagar",
+          "experience": " 18+ Years",
+          "imageSrc": "/images/doctors/bangalore/mohamed.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Antony Robert Charles",
+          "qualification": "MBBS, MS (General Surgery), MS (Paediatrics Surgery)",
+          "specialty": "Consultant - Paediatric Surgery",
+          "location": "Bangalore, Indiranagar",
+          "experience": " 25+ Years",
+          "imageSrc": "/images/doctors/bangalore/antony.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Anupama Pujar K.",
+          "qualification": "MBBS, MS (General Surgery), FMAS, FIAGES, DMAS",
+          "specialty": "Consultant - General Surgery",
+          "location": "Bangalore, Kothanur, HRBR Layout",
+          "experience": "18+ Years",
+          "imageSrc": "/images/doctors/bangalore/anupamap.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Mallikarjun Patil",
+          "qualification": "MBBS, MD (Paediatrics), DCh,DrNB in Medical Genetics, Fellowship in Paediatric Intensive care (RGHUS)",
+          "specialty": "Consultant - Paediatric Medical Genetics",
+          "location": "Bangalore, Banashankari",
+          "experience": "20+ Years",
+          "imageSrc": "/images/doctors/bangalore/mallikarjun.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Priya Mani",
+          "qualification": "MBBS, Fellowship in Diabetology",
+          "specialty": "Consultant - Diabetology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/priya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Dhananjaya K. V. N.",
+          "qualification": "MBBS, DNB (Radio Diagnosis)",
+          "specialty": "Consultant - Paediatric Radiology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/dhananjaya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Satheesh S.",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Paediatric Cardiology",
+          "specialty": "Consultant - Paediatric Radiology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/satheesh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Girish Kumar A. M.",
+          "qualification": "MBBS, MD (Orthopaedics)",
+          "specialty": "Consultant - Paediatric Orthopaedics",
+          "location": "Bangalore, HRBR Layout, Indiranagar",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/girish.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Lakshmi Sirisha P.",
+          "qualification": "MBBS, DGO (Obstetrics)",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Hebbal, HRBR Layout",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/lakshmi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Amitha N.",
+          "qualification": "MBBS, MS (OBG), Fellowship in Reproductive Medicine",
+          "specialty": "Consultant - Reproductive Medicine",
+          "location": "Bangalore, Electronic City",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/amitha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Madhuri Vidyashankar P.",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Gynaecology, Hysteroscopic & Laparoscopic Surgeries",
+          "location": "Bangalore, HRBR Layout, Indiranagar",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/madhuri.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Smitha D. S.",
+          "qualification": "MBBS, MS (OBG), DNB (OBG)",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Whitefield",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/smitha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Sri Tirumala Devi (PT)",
+          "qualification": "BPTh/BPT",
+          "specialty": "Consultant Physiotherapist",
+          "location": "Bangalore, Kannamangala Clinic",
+          "experience": "13+ Years",
+          "imageSrc": "/images/doctors/bangalore/tirumala.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Nirmala M.",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Whitefield, Kannamangala Clinic",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/nirmala.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Srinivasa K.",
+          "qualification": "MBBS, MD – Paediatrics",
+          "specialty": "Consultant- Paediatrics",
+          "location": "Bangalore, Kannamangala Clinic",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/srinivasa.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Gayathri Jayanti.",
+          "qualification": "Diploma in Dietetics, Health and Nutrition (DDHN)",
+          "specialty": "Consultant - Dietitian & Nutritionist",
+          "location": "Bangalore, Kannamangala Clinic",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/gayathri.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Anitha B. R.",
+          "qualification": "MBBS, MD (OBG), NUH Certified (Singapore), Fellowship in Infertility",
+          "specialty": "Senior Consultant - Obstetrics, Gynaecology & Reproductive Medicine, Scientific Director – IVF",
+          "location": "Bangalore, Whitefield",
+          "experience": "26+ Years",
+          "imageSrc": "/images/doctors/bangalore/anithab.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Channakeshava N.",
+          "qualification": "MBBS, DNB (Anaesthesia), Fellowship in Paediatric Anaesthesia, Diploma in Anaesthesiology",
+          "specialty": "Consultant - Anaesthesiology",
+          "location": "Bangalore, Whitefield",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/channakeshava.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Chetak A. N.",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Neonatology",
+          "specialty": "Sr. Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Whitefield",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/chetak.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Malini R. S.",
+          "qualification": "MBBS, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Whitefield, Kannamangala Clinic",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/malini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ragunath N.",
+          "qualification": "MBBS, MD (Anaesthesiology)",
+          "specialty": "Consultant - Anaesthesiology",
+          "location": "Bangalore, Whitefield",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/raghunath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rashmi N.",
+          "qualification": "MBBS, DNB (OBG).",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Kothanur",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/rashmin.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Suvarna Jyothi Ganta",
+          "qualification": "MBBS, DNB(OBG), Fellowship in Infertility",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "23+ Years",
+          "imageSrc": "/images/doctors/bangalore/suvarna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Navya N",
+          "qualification": "MBBS, MD (OBG), FNB",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Banashankari",
+          "experience": "6+ Years",
+          "imageSrc": "/images/doctors/bangalore/navyan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Kalaivani V.",
+          "qualification": "MBBS, MS (General Surgery), FIAGES, PGDHHM",
+          "specialty": "Consultant - General & Laproscopic Surgeon",
+          "location": "Bangalore, Hebbal",
+          "experience": "22+ Years",
+          "imageSrc": "/images/doctors/bangalore/kalaivani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Spoorthi",
+          "qualification": "MBBS, MD",
+          "specialty": "Consultant - Paediatrics",
+          "location": "Bangalore, Banashankari",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/spoorthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepti Lokeshappa",
+          "qualification": "MSc (Food Science Nutrition) and Dietetics Senior Consultant - Clinical Nutritionist",
+          "specialty": "",
+          "location": "Bangalore, Indiranagar",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepti.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Divya Gopal",
+          "qualification": "BSc, MSc in Dietetics and Applied Nutrition",
+          "specialty": "Consultant - Nutrition & Dietetics",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": "5+ Years",
+          "imageSrc": "/images/doctors/bangalore/divya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Beeresh C. S.",
+          "qualification": "MBBS, MS (OBG), Fellowship in Minimal Invasive Surgery",
+          "specialty": "Consultant - Obstetrics, Gynaecology & Laparoscopic Surgery",
+          "location": "Bangalore, Banashankari",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/beeresh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Darshan H. B.",
+          "qualification": "MBBS, MD (OBG), FMAS",
+          "specialty": "Consultant - Fertility, IVF & Laparoscopy Consultant",
+          "location": "Bangalore, Electronic City Phase 2, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/darshan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nitin M.",
+          "qualification": "MBBS, DM (Neonatology), MD (Paediatrics)",
+          "specialty": "Consultant - Paediatrics & Neonatology",
+          "location": "Bangalore, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/nitin.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+         {
+          "name": "Dr. Santhosh Raj",
+          "qualification": "MBBS, FIAGES, FMAS, MS, Master in Andrology",
+          "specialty": "Consultant - General & laproscopy Surgery, Male Infertility & Sexual Health.",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/santosh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Krishna Prasad",
+          "qualification": "MBBS, MRCPCH (UK), ENS (Munich), IPPN (EU), PGPN (Boston), ICAN (U.K.)",
+          "specialty": "Consultant - Paediatrics",
+          "location": "Bangalore, Electronic City",
+          "experience": "8+ Years",
+          "imageSrc": "/images/doctors/bangalore/krishna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Gopinath B.",
+          "qualification": "MBBS, MD (General Medicine)",
+          "specialty": "Consultant - General Physician",
+          "location": "Bangalore, Kothanur, HRBR Layout",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/gopinath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nagaveni R.",
+          "qualification": "MBBS, DNB, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Kothanur, HRBR Layout",
+          "experience": "13+ Years",
+          "imageSrc": "/images/doctors/bangalore/nagaveni.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepa Rao",
+          "qualification": "MBBS, DNB",
+          "specialty": "Consultant - General Physician",
+          "location": "Bangalore, Kanakapura Road Clinic",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepar.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Priyanka Reddy",
+          "qualification": "MBBS, MS (OBG) Fellowship in Reproductive Medicine, Fellowship & Diploma in Minimal Access Surgery",
+          "specialty": "Consultant - Reproductive Medicine",
+          "location": "Bangalore, Kothanur, HRBR Layout",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/priyankar.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Thejaswini J.",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Electronic City, Sarjapur",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/thejaswini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Alok Kumar M. K.",
+          "qualification": "MBBS, MD, DrNB (Neo)",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Banashankari",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/alok.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shantanu Tandon",
+          "qualification": "",
+          "specialty": "",
+          "location": "Bangalore, Sarjapur",
+          "experience": " On request",
+          "imageSrc": "/images/doctors/bangalore/shantanu.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Suprabath H. N.",
+          "qualification": "MBBS, DNB, DMRD, Fellowship in Fetal Medicine",
+          "specialty": "Consultant - Radiologist and Fetal Medicine",
+          "location": "Bangalore, Kanakapura Road Clinic",
+          "experience": "On request",
+          "imageSrc": "/images/doctors/bangalore/suprabath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rizwana Iqbal",
+          "qualification": "MBBS, MD (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/rizwana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Pooja Balaji",
+          "qualification": "MBBS, DNB",
+          "specialty": "Consultant - Internal Medicine",
+          "location": "Bangalore, Indiranagar",
+          "experience": "23+ Years",
+          "imageSrc": "/images/doctors/bangalore/poojab.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sathya Prasad",
+          "qualification": "",
+          "specialty": "Consultant - Radiology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "11+ Years",
+          "imageSrc": "/images/doctors/bangalore/sathya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Anil Kumar",
+          "qualification": "",
+          "specialty": "Consultant-Pediatric Surgery",
+          "location": "Bangalore, Sarjapur",
+          "experience": "18+ Years",
+          "imageSrc": "/images/doctors/bangalore/anil.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Manohar Babu",
+          "qualification": "MBBS, MS (Orthopedics), DNB",
+          "specialty": "Consultant - Peadiatric Orthopedics",
+          "location": "Bangalore, Banashankari, Sarjapur",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/manohar.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepa Vinay Nambiar",
+          "qualification": "MBBS, PGDHHM, PGDMLS, DNB (OBG), MD(OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "On request",
+          "imageSrc": "/images/doctors/bangalore/deepav.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Indrani C. E.",
+          "qualification": "MBBS, MD (OBG), DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "30+ Years",
+          "imageSrc": "/images/doctors/bangalore/indrani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Latha Ravichander",
+          "qualification": "MBBS, MNAMS, DNB, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "20+ Years",
+          "imageSrc": "/images/doctors/bangalore/lathar.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Regina",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "21+ Years",
+          "imageSrc": "/images/doctors/bangalore/regina.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Viqat Ara",
+          "qualification": "MBBS, MD (OBG), Fellowship in Reproductive Medicine",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "20+ Years",
+          "imageSrc": "/images/doctors/bangalore/viqat.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Santosh H. S.",
+          "qualification": "MBBS, FRCP, MRCP",
+          "specialty": "Consultant - Endocrinology",
+          "location": "Bangalore, Banashankari",
+          "experience": "23+ Years",
+          "imageSrc": "/images/doctors/bangalore/santoshh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Peddi Manjunath",
+          "qualification": "MBBS, FRCP, MRCP",
+          "specialty": "MBBS, MCh (Plastic Surgery), MS (General Surgery)",
+          "location": "Bangalore, Banashankari",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/peddi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nitin Kumar",
+          "qualification": "MBBS, MCh, MSc",
+          "specialty": "Consultant - Pediatric Surgery",
+          "location": "Bangalore, Banashankari",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/nitink.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Keshava Murthy",
+          "qualification": "MBBS, MS (Paediatrics Surgery), MS (Paediatrics)",
+          "specialty": "Consultant - Pediatric Surgery",
+          "location": "Bangalore, Banashankari",
+          "experience": "22+ Years",
+          "imageSrc": "/images/doctors/bangalore/keshava.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. V. Shiva Kumar",
+          "qualification": "MBBS, MPH, DNB",
+          "specialty": "Consultant - General & Laparoscopic Surgery",
+          "location": "Bangalore, Sarjapur",
+          "experience": "19+ Years",
+          "imageSrc": "/images/doctors/bangalore/shiva.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Shweta Dikshit",
+          "qualification": "MBBS, DMRD",
+          "specialty": "Consultant - Radiology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "20+ Years",
+          "imageSrc": "/images/doctors/bangalore/shwetad.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ananthraman Ramakrishnan",
+          "qualification": "MBBS, DM (Endocrinology), MD (Medicine)",
+          "specialty": "Consultant - Endocrinology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/ananthraman.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Premsai Reddy",
+          "qualification": "MBBS, MDRD",
+          "specialty": "Consultant - Radiology",
+          "location": "Bangalore, Banashankari",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/premsai.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepthi H.",
+          "qualification": "MBBS, DGO, Fellowship in Fetal Medicine",
+          "specialty": "Consultant - Fetal Medicine",
+          "location": "Bangalore, Hebbal, HRBR Layout",
+          "experience": "7+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepthi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Meena Kumari",
+          "qualification": "MBBS, DCH",
+          "specialty": "Consultant - Paediatrics",
+          "location": "Bangalore, Sarjapur",
+          "experience": "27+ Years",
+          "imageSrc": "/images/doctors/bangalore/meena.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nutan Anand",
+          "qualification": "MBBS, MD (Paediatrics)",
+          "specialty": "Consultant - Paediatrics",
+          "location": "Bangalore, Sarjapur",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/nutan.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepa Mohan Sharma",
+          "qualification": "MBBS, MD (Paediatrics), Fellowship in Neonatology",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, Indiranagar",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepas.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sameera S. Rao",
+          "qualification": "MBBS, DNB, MRCPCH",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/sameera.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Rekha Ranganathan Pradeep",
+          "qualification": "MBBS, MD (General Medicine)",
+          "specialty": "Consultant - General Physician & Hematology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "39+ Years",
+          "imageSrc": "/images/doctors/bangalore/rekha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Swapna S.",
+          "qualification": "MBBS, DGO, DNB (OBG), Diploma in IVF and Reproductive Medicine (Germany)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic, Indiranagar",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/swapna.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Susheelamma",
+          "qualification": "MBBS, MD",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "27+ Years",
+          "imageSrc": "/images/doctors/bangalore/susheelamma.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vani R.",
+          "qualification": "MBBS, MS, Fellowship in Laparoscopy",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "23+ Years",
+          "imageSrc": "/images/doctors/bangalore/vani.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sampath Kumar N.",
+          "qualification": "MBBS, DMRD, DNB",
+          "specialty": "Consultant - Radiology",
+          "location": "Bangalore, Kothanur, Hebbal",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/sampath.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Ashwini P.",
+          "qualification": "MBBS, DNB",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Jeevanbhima Nagar Clinic, Indiranagar",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/ashwini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Dhivya Chandrasekar",
+          "qualification": "MBBS, MRCOG, CCT, Diploma in Laparoscopy, FRCOG",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/dhivya.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Thejavathy G. V.",
+          "qualification": "MBBS, MD, DGO, FICOG",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "33+ Years",
+          "imageSrc": "/images/doctors/bangalore/thejavathy.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Pradeep G. C.",
+          "qualification": "MBBS, IPPN, PGPN, DCH, DNB, FIPM",
+          "specialty": "Consultant - Paediatrics",
+          "location": "Bangalore, Hebbal",
+          "experience": "12+ Years",
+          "imageSrc": "/images/doctors/bangalore/pradeep.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Jayashree Murthy",
+          "qualification": "MBBS, DNB",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "19+ Years",
+          "imageSrc": "/images/doctors/bangalore/jayashree.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Nusrat A. H.",
+          "qualification": "MBBS, MS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "17+ Years",
+          "imageSrc": "/images/doctors/bangalore/nusrat.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Venkatachalapathy T. S.",
+          "qualification": "MBBS, MCH (Paediatric Surgery), MNAMS (General Surgery), DNB",
+          "specialty": "Consultant - Neonatal Paediatric Surgeon and Paediatric Urologist",
+          "location": "Bangalore, Kothanur, Hebbal",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/venkatachalapathy.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Archana Pathak",
+          "qualification": "MBBS, DNB (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "18+ Years",
+          "imageSrc": "/images/doctors/bangalore/archana.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Geetha Nagarjuna",
+          "qualification": "MBBS, MS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/geetha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Prathap Chandra",
+          "qualification": "MBBS, MRCPCH (UK)",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, Indiranagar",
+          "experience": "19+ Years",
+          "imageSrc": "/images/doctors/bangalore/prathap.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Bharathi Ramesh",
+          "qualification": "MBBS, DNB, DGO",
+          "specialty": "Senior Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "25+ Years",
+          "imageSrc": "/images/doctors/bangalore/bharathi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepak Rao",
+          "qualification": "MBBS, MD, DNB, DGO, FCPS, DICOG",
+          "specialty": "Consultant - Laparoscopy & Gynaecological Surgeries",
+          "location": "Bangalore, Indiranagar",
+          "experience": "35+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepak.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Kathyaini V. S.",
+          "qualification": "MBBS, DGO, Fellowship in Reproductive Medicine",
+          "specialty": "Consultant - Gynaecology & Reproductive Medicine",
+          "location": "Bangalore, Banashankari",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/kathyaini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Santosh Kumar K",
+          "qualification": "MBBS, MD (Paediatrics), FIPM (IAP)",
+          "specialty": "Senior Consultant and Lead - Paediatrics & Neonatology",
+          "location": "Bangalore, Banashankari, Kanakapura Road Clinic",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/santoshk.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Suresh Gowda",
+          "qualification": "MBBS, MRCPCH (UK), DCH",
+          "specialty": "Consultant - Neonatology & Paediatrics",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "15+ Years",
+          "imageSrc": "/images/doctors/bangalore/suresh.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Geetha Bhavani Reddy",
+          "qualification": "MBBS, FRCOG, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": "23+ Years",
+          "imageSrc": "/images/doctors/bangalore/geethab.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vikas Satwik",
+          "qualification": "MD (Paediatrics), FRCPCH, CCT (UK), MRCPH",
+          "specialty": "Consultant - Paediatrics and Neonatology",
+          "location": "Bangalore, Hebbal",
+          "experience": "19+ Years",
+          "imageSrc": "/images/doctors/bangalore/vikash.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Deepmala",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Electronic City, Sarjapur",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/deepmala.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Vijayalakshmi",
+          "qualification": "MBBS, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "47+ Years",
+          "imageSrc": "/images/doctors/bangalore/vijayalakshmi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. D. Sangeeta Gomes",
+          "qualification": "MBBS, MD, FICMCH",
+          "specialty": "Consultant - Obstetrics and Gynaecology",
+          "location": "Bangalore, Sarjapur",
+          "experience": "30+ Years",
+          "imageSrc": "/images/doctors/bangalore/sangeeta.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. D. Suhasini Inamdar",
+          "qualification": "MBBS, MS (OBG)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Indiranagar",
+          "experience": "35+ Years",
+          "imageSrc": "/images/doctors/bangalore/suhasini.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Madhushree Vijayakumar",
+          "qualification": "MBBS, MRCOG, FRCOG, DGO",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": "14+ Years",
+          "imageSrc": "/images/doctors/bangalore/madhushree.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Aarthi Bharat",
+          "qualification": "MBBS, MD",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Banashankari",
+          "experience": "22+ Years",
+          "imageSrc": "/images/doctors/bangalore/aarthib.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Madhavi Reddy",
+          "qualification": "MBBS, MS",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, HRBR Layout",
+          "experience": "16+ Years",
+          "imageSrc": "/images/doctors/bangalore/madhavi.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Sireesha Reddy",
+          "qualification": "MBBS, MD (OBST & GYNAE), MRCOG, CCT (UK)",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": "24+ Years",
+          "imageSrc": "/images/doctors/bangalore/sireesha.png",
+          "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
+        },
+        {
+          "name": "Dr. Dhanalakshmi R.",
+          "qualification": "MBBS, DNB (Paediatrics), MRCP CH, Followership in Neonatal Neonatal medicine(UK), PGPN (USA), IPPN, ACLP",
+          "specialty": "Consultant - Obstetrics & Gynaecology",
+          "location": "Bangalore, Hebbal",
+          "experience": "10+ Years",
+          "imageSrc": "/images/doctors/bangalore/dhanalakshmi.png",
           "bookUrl": "https://www.motherhoodindia.com/book-appointment/"
         }
       ]
@@ -639,23 +2475,23 @@
           "questions": [
             {
               "question": "Where can I find Motherhood Hospitals in Bangalore?",
-              "answer": "Motherhood Hospitals has multiple branches across Bangalore including Indiranagar, Whitefield, Hebbal, Banashankari, and Sarjapur."
+              "answer": "Motherhood has hospitals and clinics across several Bangalore areas. Use the location cards above to compare areas and open the relevant hospital page for current address, contact, services and access information."
             },
             {
               "question": "How can I find the Motherhood location nearest to me?",
-              "answer": "Aap hamare hospital locations section ka use karke apne sabse nazdiki Motherhood hospital ka pata laga sakte hain."
+              "answer": "Start with the hospital section and choose the Bangalore area closest to you. The individual location page should provide the latest address, directions, contact details and care available at that hospital or clinic."
             },
             {
               "question": "Where can I explore maternity, pregnancy and birthing care in Bangalore?",
-              "answer": "Hamare Bangalore centers par comprehensive maternity packages aur advanced labor delivery rooms uplabdh hain."
+              "answer": "Use the dedicated Maternity, Pregnancy & Birthing Hospitals pathway to explore pregnancy care, delivery, antenatal and postnatal services across Bangalore locations."
             },
             {
               "question": "Where can I find gynaecology care in Bangalore?",
-              "answer": "Hamari gynaecology team PCOS, fibroids, endometriosis aur women wellness ke liye specialized care deti hai."
+              "answer": "Open the Gynaecology Hospitals pathway to explore women’s health care, relevant conditions, treatments, procedures, doctors and Bangalore hospital locations."
             },
             {
               "question": "Where can I find paediatric or children's hospital care in Bangalore?",
-              "answer": "Bangalore ke sabhi centers par 24/7 paediatric emergency aur vaccination clinics ki suvidha hai."
+              "answer": "Use the Paediatric & Children’s Hospitals pathway to explore child health services, paediatricians, treatments and Motherhood locations across Bangalore."
             }
           ]
         },
@@ -664,23 +2500,23 @@
           "questions": [
             {
               "question": "How can I find a gynaecologist in Bangalore?",
-              "answer": "Aap hamari website par doctor directory ya find doctors section ke zariye Bangalore ke top gynaecologists ko search kar sakte hain."
+              "answer": "Use the doctor finder above or open the Bangalore gynaecologist pathway, then narrow your search by Motherhood hospital location."
             },
             {
               "question": "How can I find a paediatrician in Bangalore?",
-              "answer": "Hamare paas experienced paediatricians ki team hai jo newborn care aur immunization me expert hain."
+              "answer": "Use the paediatrician pathway to browse relevant child specialists across Bangalore and filter the roster by the Motherhood location convenient for you."
             },
             {
               "question": "How can I find an obstetrician for pregnancy care?",
-              "answer": "Aap prenatal care aur safe deliveries ke liye hamare senior obstetricians me se chunav kar sakte hain."
+              "answer": "Choose the obstetrician pathway under maternity care or use the Bangalore doctor filter to find doctors by specialty and hospital location."
             },
             {
               "question": "Where can I find neonatologists in Bangalore?",
-              "answer": "Hamare Level III NICU units me expert neonatologists 24/7 uplabdh hote hain."
+              "answer": "Use the Neonatology & Newborn Care pathway to explore neonatologists and the Bangalore locations where newborn care is available."
             },
             {
               "question": "Can I search for doctors by Motherhood hospital location?",
-              "answer": "Haan, aap apne preferred hospital branch ke mutabiq specialists ko filter kar sakte hain."
+              "answer": "Yes. Use the hospital filter in the doctor finder to narrow the Bangalore roster by area, then open the doctor profile for verified specialty and consultation details."
             }
           ]
         },
@@ -689,23 +2525,23 @@
           "questions": [
             {
               "question": "Where can I learn about PCOS or fibroid care in Bangalore?",
-              "answer": "Hum PCOS aur fibroids ke prabandhan ke liye specialized clinics aur advanced treatments provide karte hain."
+              "answer": "Use the condition cards or the Bangalore gynaecology pathway to reach dedicated pages for PCOS, fibroids and related women’s health concerns."
             },
             {
               "question": "Where can I explore endometriosis care?",
-              "answer": "Endometriosis ke liye hamari multi-disciplinary team advanced diagnostic aur surgical solutions deti hai."
+              "answer": "Open the Endometriosis pathway within Bangalore gynaecology care for condition information, relevant doctors and available treatment options."
             },
             {
               "question": "Where can I explore care for a high risk pregnancy?",
-              "answer": "High-risk pregnancies ke liye hamare paas maternal-fetal medicine specialists aur advanced monitoring units hain."
+              "answer": "Use the High Risk Pregnancy pathway under maternity care to find focused information and relevant Bangalore specialist options."
             },
             {
               "question": "Where can I explore care for childhood asthma or allergies?",
-              "answer": "Hum bachon ke liye pediatric pulmonology consultations aur allergy management plans offer karte hain."
+              "answer": "Use the paediatric condition pathways for childhood asthma or allergies, then continue to relevant paediatricians and Bangalore hospital locations."
             },
             {
               "question": "Where can I find information about gynaecology procedures?",
-              "answer": "Laparoscopy, hysterectomy aur myomectomy jaise procedures ki jankari hamare site par uplabdh hai."
+              "answer": "Use the treatment and procedure section to explore pathways such as myomectomy or hysterectomy. Detailed pages should explain the procedure, relevant specialists and care locations without replacing a medical consultation."
             }
           ]
         },
@@ -714,23 +2550,23 @@
           "questions": [
             {
               "question": "Where can I explore maternity or child health packages in Bangalore?",
-              "answer": "Aap delivery bundles aur vaccination packages ke liye hamare Care Packages section ko check kar sakte hain."
+              "answer": "Use the package section above and open the relevant package page for current details. Package availability, eligibility and inclusions should be confirmed before booking."
             },
             {
               "question": "Can I see Google ratings and patient reviews for each Bangalore location?",
-              "answer": "Haan, patient reviews aur ratings hamare video stories section me dekhne ko mil jayengi."
+              "answer": "The city hub can show a compact live Google rating and review summary for each location, while the individual hospital page can carry the fuller local review experience."
             },
             {
               "question": "Where can I explore fetal medicine in Bangalore?",
-              "answer": "Hamara fetal medicine department anomaly scans aur genetic counseling ki suvidha deta hai."
+              "answer": "Fetal Medicine appears as a dedicated specialty pathway. Open it to find relevant specialists and Motherhood locations offering that service."
             },
             {
               "question": "How can I book an appointment at Motherhood Hospitals in Bangalore?",
-              "answer": "Aap header me diye gaye 'Book Appointment' button par click karke ya helpline par call karke appointment book kar sakte hain."
+              "answer": "Use the Motherhood Hospitals appointment pathway or call 96203 96203 for appointment assistance."
             },
             {
               "question": "How do I confirm current services, timings or doctor availability?",
-              "answer": "Aap hamare support desk par call karke doctor timings aur services ki pushti kar sakte hain."
+              "answer": "Open the relevant Motherhood location or doctor page for the latest published information. For time sensitive availability, confirm directly with the hospital before your visit."
             }
           ]
         }
