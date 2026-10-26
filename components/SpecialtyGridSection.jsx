@@ -1,5 +1,4 @@
-'use client';
-
+import { withBase } from '@/lib/withBase';
 export default function SpecialtyGridSection({ section }) {
   if (!section || !section.enabled) return null;
 
@@ -42,7 +41,7 @@ export default function SpecialtyGridSection({ section }) {
                     {card.iconSrc && (
                       <div className="w-12 h-12 sm:w-14 sm:h-14 flex-shrink-0 flex items-center justify-center">
                         <img
-                          src={card.iconSrc}
+                          src={withBase(card.iconSrc)}
                           alt={card.title}
                           className="w-full h-full object-contain"
                         />

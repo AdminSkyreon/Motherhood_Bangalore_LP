@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 import React from 'react';
 
@@ -42,7 +43,7 @@ function BlogCard({ blog }) {
         <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden bg-gradient-to-br from-rose-50/40 to-indigo-50/20 mb-4 flex items-center justify-center">
           {blog.imageSrc ? (
             <img
-              src={blog.imageSrc}
+              src={withBase(blog.imageSrc)}
               alt={blog.title}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             />

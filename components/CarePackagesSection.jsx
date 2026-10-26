@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 
 export default function CarePackagesSection({ section }) {
   const sectionData = section || {};
@@ -28,7 +29,7 @@ export default function CarePackagesSection({ section }) {
             {/* Icon / Avatar - Larger default size with zoom on hover */}
             <div className="w-24 h-24 rounded-full bg-rose-50/50 flex items-center justify-center mb-5 p-2 border border-rose-100/60 group-hover:scale-110 transition-transform duration-300">
               <img 
-                src={item.iconSrc} 
+                src={withBase(item.iconSrc)} 
                 alt={item.title} 
                 className="w-16 h-16 object-contain group-hover:scale-110 transition-transform duration-300" 
               />

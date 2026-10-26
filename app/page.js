@@ -1,3 +1,4 @@
+import { withBase } from '@/lib/withBase';
 import Image from "next/image";
 
 export default function Home() {
@@ -6,7 +7,7 @@ export default function Home() {
       {/* Sticky Navbar */}
       <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md flex items-center justify-between px-4 sm:px-8 py-3 border-b border-gray-100 shadow-sm">
         <div className="flex items-center">
-          <img src="/motherhood-logo.png" alt="Logo" className="h-10 sm:h-14 w-auto object-contain" />
+          <img src={withBase("/motherhood-logo.png")} alt="Logo" className="h-10 sm:h-14 w-auto object-contain" />
         </div>
         <button className="bg-rose-500 hover:bg-rose-600 text-white font-medium text-xs sm:text-base px-3 sm:px-6 py-2 sm:py-2.5 rounded-full shadow-sm transition whitespace-nowrap">
           Book Appointment
@@ -46,7 +47,7 @@ export default function Home() {
           <div className="relative mt-2 lg:mt-0">
             <div className="overflow-hidden rounded-t-[100px] lg:rounded-l-[200px] lg:rounded-r-3xl shadow-lg bg-rose-50 h-[240px] sm:h-[360px]">
               <img
-                src="/hero-img.png"
+                src={withBase("/hero-img.png")}
                 alt="Hero Mother and Child"
                 className="w-full h-full object-cover"
               />

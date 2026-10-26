@@ -1,3 +1,4 @@
+import { withBase } from '@/lib/withBase';
 import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
@@ -79,7 +80,7 @@ export default async function Page({ params }) {
       {site.enabled !== false && (
         <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md flex items-center justify-between px-6 py-4 shadow-sm">
           <img 
-            src={site.assets?.logoSrc || '/motherhood-logo.png'} 
+            src={withBase(site.assets?.logoSrc || '/motherhood-logo.png')} 
             alt={site.hospitalName || 'Hospital'} 
             className="h-12 sm:h-14 object-contain" 
           />

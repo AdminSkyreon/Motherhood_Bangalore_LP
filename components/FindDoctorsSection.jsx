@@ -1,4 +1,5 @@
 'use client';
+import { withBase } from '@/lib/withBase';
 import { useState } from 'react';
 
 export default function FindDoctorsSection({ section, slug }) {
@@ -116,9 +117,9 @@ export default function FindDoctorsSection({ section, slug }) {
               className="min-w-[280px] sm:min-w-0 bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col justify-between snap-start"
             >
               <div>
-                {/* Doctor Image - object-contain use kiya hai taki logo aur poori image bina kate safe dikhe jaise img 2 me hai */}
-                <div className="bg-white h-48 relative overflow-hidden flex items-center justify-center p-2">
-                  <img src={doc.imageSrc} alt={doc.name} className="w-full h-full object-contain object-center" />
+                {/* Doctor Image */}
+                <div className="bg-gray-100 h-48 relative overflow-hidden flex items-center justify-center">
+                  <img src={withBase(doc.imageSrc)} alt={doc.name} className="w-full h-full object-cover object-top" />
                 </div>
 
                 {/* Details */}
@@ -170,7 +171,7 @@ export default function FindDoctorsSection({ section, slug }) {
         {/* View More Doctors Button */}
         <div className="mt-8 text-center">
           <a
-            href={`/${slug}/doctors`}
+            href={withBase(`/${slug}/doctors`)}
             className="inline-flex items-center gap-2 border-2 border-[#DB5070]/40 text-[#DB5070] hover:bg-rose-50 font-semibold px-8 py-3 rounded-full transition text-base shadow-sm"
           >
             View More Doctors →
