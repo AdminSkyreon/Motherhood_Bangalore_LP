@@ -9,14 +9,12 @@ export default function FaqSection({ section }) {
   const heading = sectionData.heading || "Frequently Asked Questions About Motherhood Hospitals";
   const tabs = sectionData.tabsList || [];
 
-  // Active tab index
   const [activeTab, setActiveTab] = useState(0);
-  // Open accordion item index within the active tab
   const [openIndex, setOpenIndex] = useState(null);
 
   const handleTabChange = (index) => {
     setActiveTab(index);
-    setOpenIndex(null); // Reset open accordion when switching tabs
+    setOpenIndex(null);
   };
 
   const toggleAccordion = (index) => {
@@ -26,7 +24,8 @@ export default function FaqSection({ section }) {
   const currentTab = tabs[activeTab] || {};
 
   return (
-    <section className="py-10 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/20 overflow-hidden">
+    /* Yahan top padding ko pt-4 kar diya hai taaki upar se gap kam ho jaye */
+    <section className="pt-4 pb-6 sm:pb-8 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/20 overflow-hidden">
       <div className="max-w-5xl mx-auto px-6 mb-8 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold text-[#1a2b4c] tracking-tight">
           {heading}
@@ -49,7 +48,6 @@ export default function FaqSection({ section }) {
                 }`}
               >
                 <span className="leading-snug">{tab.tabName}</span>
-                {/* Patli patti (Bottom indicator line) for active tab */}
                 {isActive && (
                   <div className="absolute bottom-0 left-0 right-0 h-1 bg-[#DB5070]" />
                 )}
@@ -59,7 +57,7 @@ export default function FaqSection({ section }) {
         </div>
       </div>
 
-      {/* Accordion Container with Smooth Tab Transition */}
+      {/* Accordion Container */}
       <div className="max-w-5xl mx-auto px-6 space-y-3 transition-all duration-300 ease-in-out">
         {currentTab.questions?.map((item, index) => {
           const isOpen = openIndex === index;
@@ -88,7 +86,6 @@ export default function FaqSection({ section }) {
                 </button>
               </div>
 
-              {/* Smooth Animated Accordion Content */}
               <div
                 className={`grid transition-all duration-300 ease-in-out ${
                   isOpen ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'

@@ -10,12 +10,15 @@ export default function HospitalLocationsSection({ section }) {
   const displayedHospitals = showAll ? hospitals : hospitals.slice(0, 4);
 
   return (
-    <section className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-12 px-4 sm:px-6 lg:px-8 my-0">
+    <section 
+      id="hospital-locations" 
+      className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 pt-2 sm:pt-4 pb-6 px-4 sm:px-6 lg:px-8 my-0 scroll-mt-10"
+    >
       <div className="max-w-7xl mx-auto">
         {/* Section Header */}
-        <div className="text-center mb-8">
+        <div className="text-center mb-4">
           {section.title && (
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-900 mb-2">
+            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-900 mb-1">
               {section.title}
             </h2>
           )}
@@ -38,7 +41,7 @@ export default function HospitalLocationsSection({ section }) {
               className="bg-white rounded-2xl border border-rose-100/80 shadow-sm hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-between overflow-hidden"
             >
               <div>
-                {/* Hospital Image - Height reduced */}
+                {/* Hospital Image */}
                 {hospital.imageSrc && (
                   <div className="h-36 w-full overflow-hidden bg-gray-100">
                     <img
@@ -65,11 +68,11 @@ export default function HospitalLocationsSection({ section }) {
                     </div>
                   )}
 
-                  {/* Address */}
+                  {/* Address - line-clamp-2 hata diya hai taaki pura address dikhe */}
                   {hospital.address && (
                     <div className="flex items-start gap-1.5 text-gray-600 text-xs mb-3">
                       <span className="text-[#DB5070] mt-0.5 flex-shrink-0">📍</span>
-                      <p className="leading-relaxed line-clamp-2">{hospital.address}</p>
+                      <p className="leading-relaxed">{hospital.address}</p>
                     </div>
                   )}
                 </div>
@@ -118,7 +121,7 @@ export default function HospitalLocationsSection({ section }) {
 
         {/* View More / View Less Toggle Button */}
         {hospitals.length > 4 && (
-          <div className="text-center mt-10">
+          <div className="text-center mt-6">
             <button
               onClick={() => setShowAll(!showAll)}
               className="border border-[#DB5070]/30 bg-white hover:bg-rose-50 text-[#DB5070] font-bold px-6 py-2.5 rounded-full text-sm transition inline-flex items-center gap-2 shadow-sm"

@@ -4,18 +4,16 @@ export default function SpecialtiesGridSection({ section }) {
   if (!section || !section.enabled) return null;
 
   return (
-    <section className="py-12 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
+    /* Yahan top padding ko pt-2 sm:pt-4 kar diya hai taaki upar ka extra gap hat jaye */
+    <section className="pt-2 sm:pt-4 pb-2 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         {section.title && (
-          <h2 className="text-2xl sm:text-3xl font-bold text-center text-slate-900 mb-8 tracking-tight">
+          <h2 className="text-2xl sm:text-3xl font-bold text-center text-slate-900 mb-6 tracking-tight">
             {section.title}
           </h2>
         )}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
           {section.cards?.map((card, idx) => {
-            // Diagonal/Alternate pattern matching original design (Img 2)
-            // Row 1: Pink, Blue, Pink, Blue -> indices 0, 1, 2, 3
-            // Row 2: Blue, Pink, Blue, Pink -> indices 4, 5, 6, 7
             const row = Math.floor(idx / 4);
             const col = idx % 4;
             const isPink = (row + col) % 2 === 0;

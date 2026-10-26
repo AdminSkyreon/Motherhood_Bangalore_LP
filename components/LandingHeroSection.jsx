@@ -1,6 +1,6 @@
 export default function LandingHeroSection({ banner }) {
   return (
-    <section className="bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-4 sm:py-8 px-4 sm:px-8 max-w-7xl mx-auto overflow-hidden">
+    <section className="bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 pt-4 pb-2 sm:pb-4 px-4 sm:px-8 max-w-7xl mx-auto overflow-hidden">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-12 items-center">
         
         {/* Left Content */}
@@ -28,12 +28,22 @@ export default function LandingHeroSection({ banner }) {
           <div className="flex flex-col sm:flex-row gap-2 sm:gap-4">
             {banner.buttons?.map((btn, idx) => {
               const isFindHospital = btn.primary || btn.label?.toLowerCase().includes('hospital');
-              const isHighlight = btn.highlight || btn.label?.toLowerCase().includes('doctor') || btn.label?.toLowerCase().includes('appointment');
+              const isExploreSpecialties = btn.label?.toLowerCase().includes('specialt');
+              const isFindDoctor = btn.label?.toLowerCase().includes('doctor');
+              const isHighlight = btn.highlight || btn.label?.toLowerCase().includes('appointment');
 
               let btnClass = 'border border-[#0057A4] text-[#0057A4] hover:bg-blue-50 text-center';
               
+              let hrefLink = btn.link || "#";
               if (isFindHospital) {
                 btnClass = 'bg-[#0057A4] hover:bg-[#004482] text-white';
+                hrefLink = '#hospital-locations';
+              } else if (isExploreSpecialties) {
+                btnClass = 'border border-[#0057A4] text-[#0057A4] hover:bg-blue-50 text-center';
+                hrefLink = '#specialties-section';
+              } else if (isFindDoctor) {
+                btnClass = 'bg-[#DB5070] hover:bg-[#c44563] text-white';
+                hrefLink = '#doctors-section';
               } else if (isHighlight) {
                 btnClass = 'bg-[#DB5070] hover:bg-[#c44563] text-white';
               }
@@ -41,7 +51,7 @@ export default function LandingHeroSection({ banner }) {
               return (
                 <a
                   key={idx}
-                  href={btn.link || "#"}
+                  href={hrefLink}
                   className={`font-medium px-6 py-2.5 sm:py-3 rounded-full flex items-center justify-center gap-2 shadow-sm hover:shadow-lg hover:-translate-y-1 text-sm sm:text-base w-full sm:w-auto transition-all duration-300 ${btnClass}`}
                 >
                   {btn.label}

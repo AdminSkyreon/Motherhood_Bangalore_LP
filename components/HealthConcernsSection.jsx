@@ -8,21 +8,36 @@ export default function HealthConcernsSection({ data }) {
 
   const scrollRef = useRef(null);
 
-  // Auto-scroll effect with increased speed & mobile touch compatibility
   useEffect(() => {
     const scrollContainer = scrollRef.current;
-    if (!scrollContainer) return;
+    if (!scrollContainer || concerns.length === 0) return;
 
     let animationFrameId;
-    let scrollSpeed = 1.8;
-    let isHovered = false;
+    let scrollSpeed = 1.0; // Smooth movement speed
+    let isInteracting = false;
+    let timeoutId;
+
+    // Pehle render par scroll position ko beech wale set me set kar rahe hain
+    // taaki left/right dono taraf infinite range mile
+    const singleSetWidth = scrollContainer.scrollWidth / 3;
+    if (scrollContainer.scrollLeft === 0) {
+      scrollContainer.scrollLeft = singleSetWidth;
+    }
 
     const autoScroll = () => {
-      if (scrollContainer && !isHovered) {
-        scrollContainer.scrollLeft += scrollSpeed;
-        // Seamless infinite loop reset
-        if (scrollContainer.scrollLeft >= (scrollContainer.scrollWidth / 2)) {
-          scrollContainer.scrollLeft = 0;
+      if (scrollContainer) {
+        const setWidth = scrollContainer.scrollWidth / 3;
+
+        // Dynamic seamless reset (Jab end ya start tak pahunch jaye)
+        if (scrollContainer.scrollLeft >= setWidth * 2) {
+          scrollContainer.scrollLeft -= setWidth;
+        } else if (scrollContainer.scrollLeft <= 2) {
+          scrollContainer.scrollLeft += setWidth;
+        }
+
+        // Auto move jab user drag na kar raha ho
+        if (!isInteracting) {
+          scrollContainer.scrollLeft += scrollSpeed;
         }
       }
       animationFrameId = requestAnimationFrame(autoScroll);
@@ -30,31 +45,57 @@ export default function HealthConcernsSection({ data }) {
 
     animationFrameId = requestAnimationFrame(autoScroll);
 
-    const handleMouseEnter = () => { isHovered = true; };
-    const handleMouseLeave = () => { isHovered = false; };
-    const handleTouchStart = () => { isHovered = true; };
-    const handleTouchEnd = () => { isHovered = false; };
+    const handleInteractionStart = () => {
+      isInteracting = true;
+      if (timeoutId) clearTimeout(timeoutId);
+    };
 
-    scrollContainer.addEventListener('mouseenter', handleMouseEnter);
-    scrollContainer.addEventListener('mouseleave', handleMouseLeave);
-    scrollContainer.addEventListener('touchstart', handleTouchStart);
-    scrollContainer.addEventListener('touchend', handleTouchEnd);
+    const handleInteractionEnd = () => {
+      if (timeoutId) clearTimeout(timeoutId);
+      timeoutId = setTimeout(() => {
+        isInteracting = false;
+      }, 1200);
+    };
+
+    // Continuous scroll check jab user manually drag kar raha ho
+    const handleScroll = () => {
+      if (!scrollContainer) return;
+      const setWidth = scrollContainer.scrollWidth / 3;
+      if (scrollContainer.scrollLeft >= setWidth * 2) {
+        scrollContainer.scrollLeft -= setWidth;
+      } else if (scrollContainer.scrollLeft <= 2) {
+        scrollContainer.scrollLeft += setWidth;
+      }
+    };
+
+    scrollContainer.addEventListener('mouseenter', handleInteractionStart);
+    scrollContainer.addEventListener('mouseleave', handleInteractionEnd);
+    scrollContainer.addEventListener('touchstart', handleInteractionStart, { passive: true });
+    scrollContainer.addEventListener('touchend', handleInteractionEnd, { passive: true });
+    scrollContainer.addEventListener('mousedown', handleInteractionStart);
+    scrollContainer.addEventListener('mouseup', handleInteractionEnd);
+    scrollContainer.addEventListener('scroll', handleScroll, { passive: true });
 
     return () => {
       cancelAnimationFrame(animationFrameId);
+      if (timeoutId) clearTimeout(timeoutId);
       if (scrollContainer) {
-        scrollContainer.removeEventListener('mouseenter', handleMouseEnter);
-        scrollContainer.removeEventListener('mouseleave', handleMouseLeave);
-        scrollContainer.removeEventListener('touchstart', handleTouchStart);
-        scrollContainer.removeEventListener('touchend', handleTouchEnd);
+        scrollContainer.removeEventListener('mouseenter', handleInteractionStart);
+        scrollContainer.removeEventListener('mouseleave', handleInteractionEnd);
+        scrollContainer.removeEventListener('touchstart', handleInteractionStart);
+        scrollContainer.removeEventListener('touchend', handleInteractionEnd);
+        scrollContainer.removeEventListener('mousedown', handleInteractionStart);
+        scrollContainer.removeEventListener('mouseup', handleInteractionEnd);
+        scrollContainer.removeEventListener('scroll', handleScroll);
       }
     };
   }, []);
 
-  const duplicatedConcerns = [...concerns, ...concerns];
+  // Triple duplication infinite loop ke liye
+  const duplicatedConcerns = [...concerns, ...concerns, ...concerns];
 
   return (
-    <section className="py-16 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
+    <section className="pt-2 sm:pt-4 pb-2 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
       {/* Heading centered */}
       <div className="max-w-7xl mx-auto px-6 mb-8 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 tracking-tight">
@@ -62,11 +103,15 @@ export default function HealthConcernsSection({ data }) {
         </h2>
       </div>
 
-      {/* Moving & Scrollable Container */}
+      {/* Moving & Scrollable Container - Note: scroll-smooth removed to fix jump lag */}
       <div 
         ref={scrollRef}
-        className="flex gap-4 overflow-x-auto px-6 pb-6 pt-2 scroll-smooth select-none"
-        style={{ scrollbarWidth: 'none', msOverflowStyle: 'none', WebkitOverflowScrolling: 'touch' }}
+        className="flex gap-4 overflow-x-auto px-6 pb-2 pt-2 select-none"
+        style={{ 
+          scrollbarWidth: 'none', 
+          msOverflowStyle: 'none', 
+          WebkitOverflowScrolling: 'touch' 
+        }}
       >
         {duplicatedConcerns.map((item, index) => (
           <a

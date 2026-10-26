@@ -46,11 +46,11 @@ export default function DoctorsDirectoryClient({ data, slug }) {
   return (
     <main className="min-h-screen bg-white font-sans text-gray-800">
       {/* Header with Logo and Book Appointment Button */}
-      <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md flex items-center justify-between px-6 py-4 shadow-sm">
-        <img src={site.assets?.logoSrc || '/motherhood-logo.png'} alt="Logo" className="h-10 object-contain" />
+      <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md flex items-center justify-between px-4 sm:px-6 py-3 sm:py-4 shadow-sm">
+        <img src={site.assets?.logoSrc || '/motherhood-logo.png'} alt="Logo" className="h-10 sm:h-14 object-contain" />
         <a 
           href={site.bookAppointmentUrl || "#"} 
-          className="bg-[#DB5070] hover:bg-[#c44563] text-white font-medium px-5 py-2.5 rounded-full text-sm shadow-sm transition"
+          className="bg-[#DB5070] hover:bg-[#c44563] text-white font-medium px-3.5 py-2 sm:px-5 sm:py-2.5 rounded-full text-xs sm:text-sm shadow-sm transition whitespace-nowrap"
         >
           Book Appointment
         </a>
@@ -145,8 +145,9 @@ export default function DoctorsDirectoryClient({ data, slug }) {
           {filteredDoctors.map((doc, idx) => (
             <div key={idx} className="min-w-[280px] sm:min-w-0 bg-white rounded-2xl shadow-md border border-gray-100 overflow-hidden flex flex-col justify-between hover:shadow-lg transition snap-start">
               <div>
-                <div className="bg-gray-100 h-48 relative overflow-hidden flex items-center justify-center">
-                  <img src={doc.imageSrc} alt={doc.name} className="w-full h-full object-cover object-top" />
+                {/* Doctor Image Container */}
+                <div className="bg-white h-64 relative overflow-hidden flex items-center justify-center p-2">
+                  <img src={doc.imageSrc} alt={doc.name} className="w-full h-full object-contain object-center" />
                 </div>
                 <div className="p-4 text-center">
                   <h3 className="font-bold text-base text-gray-900">{doc.name}</h3>

@@ -9,9 +9,10 @@ export default function CarePackagesSection({ section }) {
   if (!enabled) return null;
 
   return (
-    <section className="py-16 bg-gradient-to-b from-rose-50/60 via-blue-50/40 to-white overflow-hidden">
+    /* Top padding pt-2 sm:pt-4 kar di hai taaki upar se extra gap hat jaye */
+    <section className="pt-2 sm:pt-4 pb-4 sm:pb-6 bg-gradient-to-b from-rose-50/60 via-blue-50/40 to-white overflow-hidden">
       {/* Heading centered */}
-      <div className="max-w-7xl mx-auto px-6 mb-10 text-center">
+      <div className="max-w-7xl mx-auto px-6 mb-8 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 tracking-tight">
           {heading}
         </h2>

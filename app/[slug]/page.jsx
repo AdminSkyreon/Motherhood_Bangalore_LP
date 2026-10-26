@@ -81,7 +81,7 @@ export default async function Page({ params }) {
           <img 
             src={site.assets?.logoSrc || '/motherhood-logo.png'} 
             alt={site.hospitalName || 'Hospital'} 
-            className="h-10 sm:h-12 object-contain" 
+            className="h-12 sm:h-14 object-contain" 
           />
           <a 
             href={site.bookAppointmentUrl || `tel:${site.phone?.tel || ''}`} 

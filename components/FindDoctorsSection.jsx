@@ -39,7 +39,10 @@ export default function FindDoctorsSection({ section, slug }) {
   });
 
   return (
-    <section className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-16 px-4 sm:px-6 lg:px-8 my-0">
+    <section 
+      id="doctors-section" 
+      className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 pt-2 sm:pt-4 pb-6 px-4 sm:px-6 lg:px-8 my-0 scroll-mt-10"
+    >
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-10">
           {section.title || "Find Doctors by Specialty & Hospital"}
@@ -113,9 +116,9 @@ export default function FindDoctorsSection({ section, slug }) {
               className="min-w-[280px] sm:min-w-0 bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col justify-between snap-start"
             >
               <div>
-                {/* Doctor Image */}
-                <div className="bg-gray-100 h-48 relative overflow-hidden flex items-center justify-center">
-                  <img src={doc.imageSrc} alt={doc.name} className="w-full h-full object-cover object-top" />
+                {/* Doctor Image - object-contain use kiya hai taki logo aur poori image bina kate safe dikhe jaise img 2 me hai */}
+                <div className="bg-white h-48 relative overflow-hidden flex items-center justify-center p-2">
+                  <img src={doc.imageSrc} alt={doc.name} className="w-full h-full object-contain object-center" />
                 </div>
 
                 {/* Details */}
@@ -165,7 +168,7 @@ export default function FindDoctorsSection({ section, slug }) {
         </div>
 
         {/* View More Doctors Button */}
-        <div className="mt-12 text-center">
+        <div className="mt-8 text-center">
           <a
             href={`/${slug}/doctors`}
             className="inline-flex items-center gap-2 border-2 border-[#DB5070]/40 text-[#DB5070] hover:bg-rose-50 font-semibold px-8 py-3 rounded-full transition text-base shadow-sm"

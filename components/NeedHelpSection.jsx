@@ -16,7 +16,8 @@ export default function NeedHelpSection({ section }) {
   const phoneTel = sectionData.phoneTel || "9620396203";
 
   return (
-    <section className="py-12 bg-gradient-to-r from-pink-50/70 via-rose-50/40 to-blue-50/60 overflow-hidden">
+    /* Yahan pt-2 aur pb-6 kar diya hai taaki upar ka gap minimize ho jaye */
+    <section className="pt-2 pb-6 sm:pb-8 bg-gradient-to-r from-pink-50/70 via-rose-50/40 to-blue-50/60 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6">
         <div className="bg-white rounded-3xl border border-gray-200/80 shadow-sm py-6 px-8 sm:py-8 sm:px-10 flex flex-col lg:flex-row items-center justify-between gap-8">
           
