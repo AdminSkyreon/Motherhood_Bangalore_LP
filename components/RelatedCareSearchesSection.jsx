@@ -9,7 +9,6 @@ export default function RelatedCareSearchesSection({ section }) {
   const heading = sectionData.heading || "Related Care Searches in Bangalore";
   const categories = sectionData.categoriesList || [];
 
-  // Track which accordion item is open (by index)
   const [openIndex, setOpenIndex] = useState(null);
 
   const toggleAccordion = (index) => {
@@ -17,14 +16,14 @@ export default function RelatedCareSearchesSection({ section }) {
   };
 
   return (
-    <section className="py-10 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/20 overflow-hidden">
+    /* Yahan pt-4 sm:pt-6 kar diya hai taaki upar ka gap reduce ho jaye */
+    <section className="pt-4 sm:pt-6 pb-4 sm:pb-6 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/20 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 mb-8 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold text-[#1a2b4c] tracking-tight">
           {heading}
         </h2>
       </div>
 
-      {/* Added items-start so boxes manage their own height independently */}
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-4 items-start">
         {categories.map((cat, index) => {
           const isOpen = openIndex === index;
@@ -36,7 +35,6 @@ export default function RelatedCareSearchesSection({ section }) {
               }`}
             >
               <div className={`p-3.5 sm:p-4 ${isOpen ? 'pb-2' : ''}`}>
-                {/* Header / Clickable Toggle Bar */}
                 <button
                   onClick={() => toggleAccordion(index)}
                   className="w-full flex items-center justify-between text-left focus:outline-none gap-4"
@@ -54,7 +52,6 @@ export default function RelatedCareSearchesSection({ section }) {
                 </button>
               </div>
 
-              {/* Smooth Animated Accordion Content Area */}
               <div
                 className={`grid transition-all duration-300 ease-in-out ${
                   isOpen ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'

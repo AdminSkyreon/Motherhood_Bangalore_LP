@@ -12,8 +12,9 @@ export default function StoriesVideoSection({ section }) {
   const stories = sectionData.storiesList || [];
 
   return (
-    <section className="py-16 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/25 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-6 mb-12 text-center">
+    /* Yahan top padding ko pt-2 sm:pt-4 kar diya hai taaki upar se gap minimize ho jaye */
+    <section className="pt-2 sm:pt-4 pb-2 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/25 overflow-hidden">
+      <div className="max-w-7xl mx-auto px-6 mb-8 text-center">
         <h2 className="text-2xl sm:text-4xl font-bold text-gray-900 tracking-tight">
           {heading}
         </h2>
@@ -39,7 +40,6 @@ function StoryCard({ story }) {
     const videoSrc = withBase(story.videoUrl); // e.g., '/videos/women-health.m3u8'
 
     if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      // Safari support
       video.src = videoSrc;
     } else if (Hls.isSupported()) {
       const hls = new Hls();

@@ -40,7 +40,10 @@ export default function FindDoctorsSection({ section, slug }) {
   });
 
   return (
-    <section className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 py-16 px-4 sm:px-6 lg:px-8 my-0">
+    <section 
+      id="doctors-section" 
+      className="w-full bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 pt-2 sm:pt-4 pb-6 px-4 sm:px-6 lg:px-8 my-0 scroll-mt-10"
+    >
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-10">
           {section.title || "Find Doctors by Specialty & Hospital"}
@@ -166,7 +169,7 @@ export default function FindDoctorsSection({ section, slug }) {
         </div>
 
         {/* View More Doctors Button */}
-        <div className="mt-12 text-center">
+        <div className="mt-8 text-center">
           <a
             href={withBase(`/${slug}/doctors`)}
             className="inline-flex items-center gap-2 border-2 border-[#DB5070]/40 text-[#DB5070] hover:bg-rose-50 font-semibold px-8 py-3 rounded-full transition text-base shadow-sm"

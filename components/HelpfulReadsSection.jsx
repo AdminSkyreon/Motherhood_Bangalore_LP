@@ -12,9 +12,10 @@ export default function HelpfulReadsSection({ section }) {
   const blogs = sectionData.blogsList || [];
 
   return (
-    <section className="py-16 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/25 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-6 mb-8 text-center">
-        <h2 className="text-2xl sm:text-4xl font-bold text-gray-900 tracking-tight mb-3">
+    /* Top padding ko pt-1 sm:pt-2 aur heading margin ko mt-2 mb-6 kar diya hai gap kam karne ke liye */
+    <section className="pt-1 sm:pt-2 pb-2 bg-gradient-to-tr from-rose-50/40 via-blue-50/30 to-rose-50/25 overflow-hidden">
+      <div className="max-w-7xl mx-auto px-6 mt-2 mb-6 text-center">
+        <h2 className="text-2xl sm:text-4xl font-bold text-gray-900 tracking-tight mb-2">
           {heading}
         </h2>
         <a 

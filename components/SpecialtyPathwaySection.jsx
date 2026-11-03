@@ -5,7 +5,8 @@ export default function SpecialtyPathwaySection({ pathway }) {
   if (!pathway) return null;
 
   return (
-    <section className="py-10 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
+    /* Yahan top padding ko pt-2 sm:pt-4 kar diya hai taaki upar ka gap hat jaye */
+    <section className="pt-2 sm:pt-4 pb-4 bg-gradient-to-r from-rose-50/70 via-blue-50/50 to-rose-50/70 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-8">
         <div className="bg-white/90 backdrop-blur-sm rounded-2xl border border-gray-100 shadow-md py-5 px-6 sm:px-8 relative overflow-hidden flex flex-col lg:flex-row items-center justify-between gap-6 border-l-8 border-l-[#DB5070] group">
           
